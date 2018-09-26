@@ -2,4 +2,4 @@
 title: Dates
 ---
 
-[About](/about)
+[Kontakt](/contact)
