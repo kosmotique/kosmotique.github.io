@@ -1,5 +1,5 @@
 ---
-title: Alle Macht den Räten
+title: Alle Macht den Raeten
 'null': null
 date: '2018-11-18 12:00:00 +0100'
 published: true
