@@ -1,6 +1,8 @@
 ---
-title: "Alle Macht den Räten"?
-date:  2018-11-18 12:00:00 +0100
+title: Alle Macht den Räten
+'null': null
+date: '2018-11-18 12:00:00 +0100'
+published: true
 ---
 
 Workshop mit Olaf Kistenmacher im Rahmen der Veranstaltungsreihe 100 Jahre Novemberrevolution
@@ -30,5 +32,3 @@ Olaf Kistenmacher, Historiker, schreibt für die Jungle World, Konkret
 und Phase 2. Vor zwei Jahren erschien seine Dissertation Arbeit und
 "jüdisches Kapital". Antisemitische Aussagen in der KPD-Tageszeitung
 "Die Rote Fahne" während der Weimarer Republik.
-
-
