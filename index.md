@@ -1,5 +1,4 @@
 ---
-title: Dates
+title: kosmotique
+layout: home
 ---
-
-[Kontakt](/contact)

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+
+        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}
+          <!--span style="color: grey; float: right;">{% for tag in post.tags %} {{tag}} {% endfor %}</span-->
+		</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+        </h2>
+
+        <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
+
+      </li>
+    {% endfor %}
+</ul>
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
