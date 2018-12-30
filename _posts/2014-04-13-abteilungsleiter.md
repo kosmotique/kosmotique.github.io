@@ -1,5 +1,5 @@
 ---
-title: "Meine Mutti ist Abteilungsleiter, alle Tage steht sie ihren Mann"- Das Frauenbild in der DDR
+title: Meine Mutti ist Abteilungsleiter, alle Tage steht sie ihren Mann - Das Frauenbild in der DDR
 date:  2014-04-13 14:00:00 +0100
 ---
 
