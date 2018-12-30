@@ -1,5 +1,5 @@
 ---
-title: Tierrechtsrecherchen in der 'Nutz'tierhaltung: Umsetzung, Bedeutung und Chancen
+title: Tierrechtsrecherchen in der Nutztierhaltung: Umsetzung, Bedeutung und Chancen
 date:  2017-10-13 19:00:00 +0100
 ---
 
