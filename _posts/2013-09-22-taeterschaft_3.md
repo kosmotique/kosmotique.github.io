@@ -1,5 +1,5 @@
 ---
-title: Thomas Harlan: Wandersplitter
+title: Thomas Harlan. Wandersplitter
 date:  2013-09-22 20:00:00 +0100
 ---
 
