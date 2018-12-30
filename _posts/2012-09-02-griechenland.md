@@ -1,5 +1,5 @@
 ---
-title: Griechenland und die Euro-Krise: Debtocracy and Catastroika
+title: Griechenland und die Euro-Krise. Debtocracy and Catastroika
 date:  2012-09-02 17:00:00 +0100
 ---
 
