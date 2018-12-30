@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Möglichst freiwillig
 date: 2018-12-19T20:00:00.000Z
 ---
