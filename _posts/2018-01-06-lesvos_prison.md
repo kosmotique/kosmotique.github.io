@@ -1,5 +1,4 @@
 ---
-published: false
 title: Lesvos. Beautiful Prison and borderline Europe
 date: 2018-01-06T19:00:00.000Z
 ---
