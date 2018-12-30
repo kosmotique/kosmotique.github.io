@@ -1,5 +1,5 @@
 ---
-title: Dialektik: Denken in Widersprüchen
+title: Dialektik. Denken in Widersprüchen
 date:  2013-07-15 20:00:00 +0100
 ---
 
