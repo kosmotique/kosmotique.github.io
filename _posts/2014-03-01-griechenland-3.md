@@ -1,5 +1,5 @@
 ---
-title: Austeritätspolitik und Gesundheit in Griechenland: Die Social Clinic of Solidarity in Thessaloniki
+title: Austeritätspolitik und Gesundheit in Griechenland. Die Social Clinic of Solidarity in Thessaloniki
 date:  2014-03-01 20:00:00 +0100
 ---
 
