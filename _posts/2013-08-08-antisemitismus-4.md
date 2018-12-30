@@ -1,5 +1,5 @@
 ---
-title: "Zinsen, Zocker, Zionisten" - Zum reaktionären Weltbild des regressiven Antikapitalismus
+title: Zinsen, Zocker, Zionisten - Zum reaktionären Weltbild des regressiven Antikapitalismus
 date:  2013-08-08 20:00:00 +0100
 ---
 
