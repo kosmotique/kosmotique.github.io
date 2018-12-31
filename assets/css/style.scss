@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-image: linear-gradient(#ddffdd, #fdfdfd);
+  background-attachment: fixed;
+}
+
 a {
   color: #000000;
 }
@@ -12,4 +17,35 @@ div.overview {
 
 h2.overview {
   margin: 0 0 0;
+  line-height: 1.1;
+  font-size: 1.2em;
+}
+
+span.post-excerpt a {
+  color: #727272;
+}
+
+span.post-meta {
+  color: #222222;
+}
+
+img.logo {
+  width:  50px;
+  height: 50px;
+  border-radius: 50%;
+  display: inline;
+  vertical-align: middle;
+}
+
+a.logo {
+  display: inline;
+}
+
+div.menu a {
+  font-weight: bold;
+  color: #555555;
+}
+
+div.icons {
+  margin-top: 20px;
 }
