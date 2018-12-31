@@ -1,6 +1,6 @@
 ---
 title: Die braune Saat
-date:  2017-10-18 20:00:00 +0100
+date:  2017-10-18 20:00:00
 ---
 
 Lesung &amp; Diskussion mit Harry Waibel veranstaltet von der gruppe polar im Rahmen der Veranstaltungsreihe Was heisst hier Siegerjustiz?

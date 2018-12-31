@@ -1,6 +1,6 @@
 ---
 title: Die Metamorphosen des Kapitals
-date:  2014-06-18 20:00:00 +0100
+date:  2014-06-18 20:00:00
 ---
 
 Vortrag und Diskussion von und mit Tino Heim eine Veranstaltung des Buchladen "König Kurt"

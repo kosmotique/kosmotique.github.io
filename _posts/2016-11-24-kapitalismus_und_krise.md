@@ -1,6 +1,6 @@
 ---
 title: Kapitalismus und Krise
-date:  2016-11-24 20:00:00 +0100
+date:  2016-11-24 20:00:00
 ---
 
 Vortrag &amp; Diskussion mit Daniel Butscher von AntiKapWiki

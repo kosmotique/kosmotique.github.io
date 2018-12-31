@@ -1,6 +1,6 @@
 ---
 title: Swing &amp; Antifa
-date:  2013-02-07 20:00:00 +0100
+date:  2013-02-07 20:00:00
 ---
 
 Vortrag- und Filmreihe mit Shim Sham  eine Veranstaltung von kosmotique &amp; swinging friends

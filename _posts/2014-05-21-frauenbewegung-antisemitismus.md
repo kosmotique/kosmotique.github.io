@@ -1,6 +1,6 @@
 ---
 title: Von weiblichen Opfermythen. Deutsche Frauenbewegungen und Antisemitismus
-date:  2014-05-21 19:00:00 +0100
+date:  2014-05-21 19:00:00
 ---
 
 Vortrag von Ljiljana Radonic eine Veranstaltung von e*vibes

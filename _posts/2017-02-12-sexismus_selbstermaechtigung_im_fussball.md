@@ -1,6 +1,6 @@
 ---
 title: Sexismus und Selbstermächtigungsstrategien im Fußball
-date:  2017-02-12 18:30:00 +0100
+date:  2017-02-12 18:30:00
 ---
 
 Vortrag von Antje Grabenhorst

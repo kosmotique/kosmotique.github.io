@@ -1,6 +1,6 @@
 ---
 title: Spiel auf Zeit
-date:  2016-11-03 20:00:00 +0100
+date:  2016-11-03 20:00:00
 ---
 
 Lesung &amp; Lichtbildvortrag mit Nina Schulz und Elisabeth Mena Urbitsch

@@ -1,6 +1,6 @@
 ---
 title: Verdrängte Perspektiven – ein Sinto auf Spurensuche
-date:  2018-03-14 20:00:00 +0100
+date:  2018-03-14 20:00:00
 ---
 
 Audiofeature und Gespräch mit Isabel Andiel (Autorin) im Rahmen des Offenen Tresen gegen Antiromaismus

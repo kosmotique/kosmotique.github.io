@@ -1,6 +1,6 @@
 ---
 title: Verschwendung ist ein scharfes Schwert
-date:  2014-11-22 13:00:00 +0100
+date:  2014-11-22 13:00:00
 ---
 
 Workshop mit dem Club der Verschwender_innen

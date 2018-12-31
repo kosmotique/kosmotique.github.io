@@ -1,6 +1,6 @@
 ---
 title: Zur Situation in griechischen Knästen
-date:  2014-06-19 20:00:00 +0100
+date:  2014-06-19 20:00:00
 ---
 
 Vortrag und Diskussion  eine Veranstaltung der Roten Hilfe Dresden

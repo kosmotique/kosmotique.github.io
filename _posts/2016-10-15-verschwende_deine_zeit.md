@@ -1,6 +1,6 @@
 ---
 title: Verschwende deine Zeit
-date:  2016-10-15 20:15:00 +0100
+date:  2016-10-15 20:15:00
 ---
 
 Buchvorstellung, Film, Diskussion mit Julian Pörksen präsentiert vom Club der Verschwender*innen in Kooperation mit Weiterdenken

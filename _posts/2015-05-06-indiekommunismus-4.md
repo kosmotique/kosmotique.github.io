@@ -1,6 +1,6 @@
 ---
 title: Der Tschekist
-date:  2015-05-06 20:00:00 +0100
+date:  2015-05-06 20:00:00
 ---
 
 Film &amp; Diskussion von Alexander Rogoschkin, 1992 eine Veranstaltung von gruppe polar

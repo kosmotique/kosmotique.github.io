@@ -1,6 +1,6 @@
 ---
 title: Schlurf - im Swing gegen den Gleichschritt
-date:  2013-01-17 20:00:00 +0100
+date:  2013-01-17 20:00:00
 ---
 
 Dokufiktionaler Film von Monica Ladurner und Wolfgang Beyer, 2007

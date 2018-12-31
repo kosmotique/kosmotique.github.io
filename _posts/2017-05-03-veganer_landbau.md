@@ -1,6 +1,6 @@
 ---
 title: Eine andere Landwirtschaft ist machbar!
-date:  2017-05-03 20:00:00 +0100
+date:  2017-05-03 20:00:00
 ---
 
 Vortrag mit Daniel Mettke, Dipl. Ing. (FH) Ökolandbau

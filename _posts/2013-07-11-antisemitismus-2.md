@@ -1,6 +1,6 @@
 ---
 title: Geschichte der Antisemitismusdebatte in der deutschen Linken
-date:  2013-07-11 20:00:00 +0100
+date:  2013-07-11 20:00:00
 ---
 
 Vortrag von Peter Nowak eine Veranstaltung der AFA Dresden

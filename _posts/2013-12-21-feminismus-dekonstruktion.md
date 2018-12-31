@@ -1,6 +1,6 @@
 ---
 title: Feminismus, dekonstruktiv
-date:  2013-12-21 19:00:00 +0100
+date:  2013-12-21 19:00:00
 ---
 
 Textseminar zu feministisch dekonstruktiv differenzphilosophischen

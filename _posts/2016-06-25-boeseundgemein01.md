@@ -1,6 +1,6 @@
 ---
 title: Böse &amp; Gemein II
-date:  2016-06-25 14:00:00 +0100
+date:  2016-06-25 14:00:00
 ---
 
 female focused &amp; queer-feminist festival organisiert von Böse &amp; Gemein

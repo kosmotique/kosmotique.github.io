@@ -1,6 +1,6 @@
 ---
 title: Grenzenlose Solidarität - 20 Jahre Rostock-Lichtenhagen
-date:  2012-08-09 20:00:00 +0100
+date:  2012-08-09 20:00:00
 ---
 
 Infoveranstaltung und Filmvorführung zur Demonstration durch

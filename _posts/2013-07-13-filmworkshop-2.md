@@ -1,6 +1,6 @@
 ---
 title: Work in progress
-date:  2013-07-13 10:00:00 +0100
+date:  2013-07-13 10:00:00
 ---
 
 Frühstück und Workshop mit Wolfgang Reinke und Alan Kučar

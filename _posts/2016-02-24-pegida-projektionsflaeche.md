@@ -1,6 +1,6 @@
 ---
 title: Pegida als Projektionsfläche
-date:  2016-02-24 20:00:00 +0100
+date:  2016-02-24 20:00:00
 ---
 
 Vorabpräsentation eines freien Forschungszusammenhangs

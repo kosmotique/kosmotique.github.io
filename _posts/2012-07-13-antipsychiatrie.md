@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Antipsychiatrische Theorie
-date:  2012-07-13 20:00:00 +0100
+date:  2012-07-13 20:00:00
 ---
 
 Vortrag von David Wichera eine Veranstaltung des Projekt Ikarus Dresden

@@ -1,6 +1,6 @@
 ---
 title: Just the Wind
-date:  2013-10-02 21:00:00 +0100
+date:  2013-10-02 21:00:00
 ---
 
 Drama von Bence Fliegauf

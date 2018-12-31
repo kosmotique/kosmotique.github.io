@@ -1,6 +1,6 @@
 ---
 title: I feel like dancing! FRAME 2
-date:  2012-05-08 20:30:00 +0100
+date:  2012-05-08 20:30:00
 ---
 
 "The Kneipenquiz, ein alter Hut!" präsentiert von Radiokollektiv Volume Mascara Murmansk RVMM

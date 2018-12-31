@@ -1,6 +1,6 @@
 ---
 title: Silvio-Meier-Demo
-date:  2012-11-08 19:00:00 +0100
+date:  2012-11-08 19:00:00
 ---
 
 Infoveranstaltung mit RAA Sachsen und Akubiz Pirna (angefragt) organisiert von Gruppe raddix

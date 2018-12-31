@@ -1,6 +1,6 @@
 ---
 title: Natasha
-date:  2017-09-20 20:00:00 +0100
+date:  2017-09-20 20:00:00
 ---
 
 Film und Diskussion mit der Filmemacherin Ulli Gladik, Bettellobby Wien

@@ -1,6 +1,6 @@
 ---
 title: Griechenland und die Euro-Krise. Debtocracy and Catastroika
-date:  2012-09-02 17:00:00 +0100
+date:  2012-09-02 17:00:00
 ---
 
 Filme: "Debtocracy" und "Catastroika. privatization goes

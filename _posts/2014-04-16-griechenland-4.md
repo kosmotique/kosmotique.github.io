@@ -1,6 +1,6 @@
 ---
 title: Widerstand, Repression und Selbstorganisierung in Griechenland
-date:  2014-04-16 20:00:00 +0100
+date:  2014-04-16 20:00:00
 ---
 
 Ein Reisebericht  eine Veranstaltung von Gruppe Polar und Gruppe Ausser Kontrolle

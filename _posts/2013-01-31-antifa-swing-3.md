@@ -1,6 +1,6 @@
 ---
 title: Lindy Hop und Antifaschismus. Swingtanzen zwischen Anpassung und Widerstand
-date:  2013-01-31 20:00:00 +0100
+date:  2013-01-31 20:00:00
 ---
 
 Vortrag von Juliane Hummitzsch

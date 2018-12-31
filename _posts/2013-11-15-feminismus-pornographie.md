@@ -1,6 +1,6 @@
 ---
 title: Feminismus und Pornographie
-date:  2013-11-15 18:30:00 +0100
+date:  2013-11-15 18:30:00
 ---
 
 Workshop mit Gruppe diss eine Veranstaltung von StuRa HfbK, Die Linke.SDS Hochschulgruppe

@@ -1,6 +1,6 @@
 ---
 title: Presseworkshop
-date:  2012-08-04 18:00:00 +0100
+date:  2012-08-04 18:00:00
 ---
 
 eine Veranstaltung des Referat politische Bildung am Stura (TUD)

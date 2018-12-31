@@ -1,6 +1,6 @@
 ---
 title: Goldrausch – die Geschichte der Treuhand
-date:  2016-09-14 20:00:00 +0100
+date:  2016-09-14 20:00:00
 ---
 
 Filmvorführung von gruppe polar

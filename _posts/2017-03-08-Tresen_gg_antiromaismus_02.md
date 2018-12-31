@@ -1,6 +1,6 @@
 ---
 title: Tresen gegen Antiromaismus
-date:  2017-03-08 20:00:00 +0100
+date:  2017-03-08 20:00:00
 ---
 
 Frauen - Kämpfe - Anerkennung. Diskussion mit der Gruppe gegen Antiromaismus

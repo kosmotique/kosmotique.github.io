@@ -1,6 +1,6 @@
 ---
 title: Nationalsozialistische Täterschaften - Nachwirkungen
-date:  2016-10-28 20:00:00 +0100
+date:  2016-10-28 20:00:00
 ---
 
 Film, Buchvorstellung, Gespräch mit Johannes Spohr

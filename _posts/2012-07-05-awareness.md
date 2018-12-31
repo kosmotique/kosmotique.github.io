@@ -1,6 +1,6 @@
 ---
 title: Sexismuskritische Praxis im Diskurs
-date:  2012-07-05 18:00:00 +0100
+date:  2012-07-05 18:00:00
 ---
 
 Diskussionsveranstaltung  von und mit e*vibes// e*space

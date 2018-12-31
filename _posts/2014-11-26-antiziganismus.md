@@ -1,6 +1,6 @@
 ---
 title: Antiziganismus und Schuldabwehr
-date:  2014-11-26 19:30:00 +0100
+date:  2014-11-26 19:30:00
 ---
 
 Vortrag von Hannah Eitel

@@ -1,6 +1,6 @@
 ---
 title: Als ich mit Hitler Schnapskirschen aß
-date:  2017-09-29 20:00:00 +0100
+date:  2017-09-29 20:00:00
 ---
 
 Autorinnenlesung mit Manja Präkels

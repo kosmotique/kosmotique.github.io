@@ -1,6 +1,6 @@
 ---
 title: Viva la Rebellion
-date:  2017-04-13 19:00:00 +0100
+date:  2017-04-13 19:00:00
 ---
 
 Buchvorstellung von und mit Chris Moser eine Veranstaltung der Tierbefreiung Dresden.

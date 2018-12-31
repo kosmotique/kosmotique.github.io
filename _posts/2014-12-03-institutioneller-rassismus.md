@@ -1,6 +1,6 @@
 ---
 title: ID-withoutcolors
-date:  2014-12-03 20:00:00 +0100
+date:  2014-12-03 20:00:00
 ---
 
 Dokumentarfilm und Votrag von Biblap (KOP Berlin) eine Veranstaltung der Kampagne Sachsens Demokratie

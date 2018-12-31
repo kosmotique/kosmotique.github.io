@@ -1,6 +1,6 @@
 ---
 title: Kapitalismus in der Krise und Deutsche Härte
-date:  2013-03-17 14:00:00 +0100
+date:  2013-03-17 14:00:00
 ---
 
 Workshop

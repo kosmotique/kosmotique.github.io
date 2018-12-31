@@ -1,6 +1,6 @@
 ---
 title: Körper. Flucht. Raum.
-date:  2018-08-24 16:00:00 +0100
+date:  2018-08-24 16:00:00
 ---
 
 Workshop mit Romy Weyrauch, Michael Neil McCrae und Salim Ben Mammar im Rahmen des Projekts von HELLERAU - Europäisches Zentrum der Künste im Rahmen des RAC - Refugee Art Center Hellerau

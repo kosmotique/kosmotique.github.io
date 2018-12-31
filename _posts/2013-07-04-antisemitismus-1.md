@@ -1,6 +1,6 @@
 ---
 title: Israel und seine Feinde
-date:  2013-07-04 20:00:00 +0100
+date:  2013-07-04 20:00:00
 ---
 
 Vortrag von Sebastian Mohr und Tilman Tarach eine Veranstaltung der AFA Dresden

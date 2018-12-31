@@ -1,6 +1,6 @@
 ---
 title: Partizani - Widerstand in Jugoslawien 1941-1945
-date:  2016-02-03 20:00:00 +0100
+date:  2016-02-03 20:00:00
 ---
 
 Vortrag von Wieland Köbsch (Phd) und der Gruppe gegen Antiromaismus

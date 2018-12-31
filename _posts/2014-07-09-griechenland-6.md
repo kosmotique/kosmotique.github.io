@@ -1,6 +1,6 @@
 ---
 title: Solidarität als Widerstand. Die solidarischen Kliniken in Griechenland
-date:  2014-07-09 20:00:00 +0100
+date:  2014-07-09 20:00:00
 ---
 
 Vortrag mit Nadja Rakowitz eine Veranstaltung der IPPNW Studis Dresden in Kooperation mit der Gruppe Polar

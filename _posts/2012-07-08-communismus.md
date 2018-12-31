@@ -1,6 +1,6 @@
 ---
 title: Ein Abend der konkreten Utopien
-date:  2012-07-08 19:00:00 +0100
+date:  2012-07-08 19:00:00
 ---
 
 Lesung und Diskussion mit Raul Zelik und seinem zuletzt erschienen Sachbuch: "Nach dem Kapitalismus. Perspektiven der Emanzipation oder: Das Projekt

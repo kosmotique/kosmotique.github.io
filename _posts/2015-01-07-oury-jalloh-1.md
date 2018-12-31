@@ -1,6 +1,6 @@
 ---
 title: 10 Jahre Mord an Oury Jalloh
-date:  2015-01-07 10:15:00 +0100
+date:  2015-01-07 10:15:00
 ---
 
 Gedenkdemonstration

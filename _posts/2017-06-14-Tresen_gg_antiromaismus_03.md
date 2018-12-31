@@ -1,6 +1,6 @@
 ---
 title: Das [un]bekannte Andere
-date:  2017-06-14 20:00:00 +0100
+date:  2017-06-14 20:00:00
 ---
 
 Vortrag von Claudia Pawlowitsch im Rahmen des offenen Tresen gegen Antiromaismus

@@ -1,6 +1,6 @@
 ---
 title: 25 Jahre nach dem rassistischen Pogrom von Hoyerswerda
-date:  2016-05-20 19:30:00 +0100
+date:  2016-05-20 19:30:00
 ---
 
 Veranstaltung mit Julia Oelkers (Filmemacherin von out of focus film aus Berlin) und der Initiative Pogrom 91 mit Filmaufnahmen aus den

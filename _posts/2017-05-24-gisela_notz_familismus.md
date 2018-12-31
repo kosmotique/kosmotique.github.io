@@ -1,6 +1,6 @@
 ---
 title: Kritik des Familismus
-date:  2017-05-24 20:00:00 +0100
+date:  2017-05-24 20:00:00
 ---
 
 Lesung und Diskussion mit Gisela Notz eine Veranstaltung des Bündnisses pro choice Sachsen

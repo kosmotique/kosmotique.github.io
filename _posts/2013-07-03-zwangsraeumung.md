@@ -1,6 +1,6 @@
 ---
 title: Zwangsräumung verhindern!
-date:  2013-07-03 20:00:00 +0100
+date:  2013-07-03 20:00:00
 ---
 
 Info- und Diskussionsveranstaltung von und mit der Berliner Kampagne Zwangsräumung verhindern!

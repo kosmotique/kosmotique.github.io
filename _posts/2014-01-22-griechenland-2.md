@@ -1,6 +1,6 @@
 ---
 title: Into the Fire. The Hidden Victims of Austerity in Greece
-date:  2014-01-22 21:00:00 +0100
+date:  2014-01-22 21:00:00
 ---
 
 Filmvorführung und Input von Gruppe N.N.

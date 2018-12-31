@@ -1,6 +1,6 @@
 ---
 title: Austeritätspolitik und Gesundheit in Griechenland. Die Social Clinic of Solidarity in Thessaloniki
-date:  2014-03-01 20:00:00 +0100
+date:  2014-03-01 20:00:00
 ---
 
 Vortrag und Bericht von Ben Wachtler (Verein demokratischer Ärztinnen und Ärzte) eine Veranstaltung von Gruppe N.N.

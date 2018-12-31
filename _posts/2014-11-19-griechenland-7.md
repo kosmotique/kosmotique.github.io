@@ -1,6 +1,6 @@
 ---
 title: "From Manolada to Dhaka … Workers united shall win!"
-date:  2014-11-19 20:00:00 +0100
+date:  2014-11-19 20:00:00
 ---
 
 Vortrag von Mathias Verheyen eine Veranstaltung der gruppe polar

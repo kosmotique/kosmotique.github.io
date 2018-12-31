@@ -1,6 +1,6 @@
 ---
 title: Gemeinsamer Abend um Briefe an Gefangene zu schreiben
-date:  2014-08-28 19:00:00 +0100
+date:  2014-08-28 19:00:00
 ---
 
 Solidaritätsveranstaltung von ABC-Dresden

@@ -1,6 +1,6 @@
 ---
 title: Zinsen, Zocker, Zionisten - Zum reaktionären Weltbild des regressiven Antikapitalismus
-date:  2013-08-08 20:00:00 +0100
+date:  2013-08-08 20:00:00
 ---
 
 Vortrag von Lothar Galow-Bergemann eine Veranstaltung der AFA Dresden

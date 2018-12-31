@@ -1,6 +1,6 @@
 ---
 title: Brasilien und die FIFA Weltmeisterschaft der Männer
-date:  2014-04-14 19:00:00 +0100
+date:  2014-04-14 19:00:00
 ---
 
 Vortrag von Maria aus Prag eine Veranstaltung von e*vibes

@@ -1,6 +1,6 @@
 ---
 title: Grundlagen und Kritik am deutschen Asyl- und Aufenthaltsrecht
-date:  2017-03-19 18:00:00 +0100
+date:  2017-03-19 18:00:00
 ---
 
 Informationsveranstaltung eine Veranstaltung im Rahmen der Aktionswoche Asyl Dublin4Never

@@ -1,6 +1,6 @@
 ---
 title: Tresen gegen Antiromaismus
-date:  2017-04-12 20:00:00 +0100
+date:  2017-04-12 20:00:00
 ---
 
 Mobilisierung zur Lety-Gedenkfahrt von und mit der Gruppe gegen Antiromaismus

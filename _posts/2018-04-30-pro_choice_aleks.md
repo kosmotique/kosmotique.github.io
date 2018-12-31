@@ -1,6 +1,6 @@
 ---
 title: Grenzenlos Pro Choice
-date:  2018-04-30 20:00:00 +0100
+date:  2018-04-30 20:00:00
 ---
 
 Vortrag mit Aleks von Ciocia Basia aus Berlin im Rahmen der Pro Choice Sachsen Mobilisierung nach Annaberg-Buchholz

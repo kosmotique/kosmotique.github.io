@@ -1,6 +1,6 @@
 ---
 title: Betteln ist ein Recht auf Stadt
-date:  2017-10-12 19:00:00 +0100
+date:  2017-10-12 19:00:00
 ---
 
 Workshop mit der gruppe polar im Rahmen von KRETA Dresden

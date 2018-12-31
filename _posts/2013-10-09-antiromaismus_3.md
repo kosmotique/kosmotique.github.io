@@ -1,6 +1,6 @@
 ---
 title: Antiromaismus in Tschechien
-date:  2013-10-09 20:00:00 +0100
+date:  2013-10-09 20:00:00
 ---
 
 Vortrag und Diskussion mit Michael Reibetanz

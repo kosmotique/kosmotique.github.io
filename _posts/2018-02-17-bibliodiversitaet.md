@@ -1,6 +1,6 @@
 ---
 title: Bibliodiversität. Manifest für unabhängiges Publizieren.
-date:  2018-02-17 20:00:00 +0100
+date:  2018-02-17 20:00:00
 ---
 
 Lesung mit Jörg Sundermeier (Verleger) präsentiert vom König Kurt

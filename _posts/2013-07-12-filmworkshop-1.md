@@ -1,6 +1,6 @@
 ---
 title: Nicht böse sein!
-date:  2013-07-12 20:30:00 +0100
+date:  2013-07-12 20:30:00
 ---
 
 Dokumentarfilm (Wolfgang Reinke und Ginés Olivares, Deutschland 2006,

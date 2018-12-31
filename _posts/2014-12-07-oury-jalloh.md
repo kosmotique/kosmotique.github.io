@@ -1,6 +1,6 @@
 ---
 title: 10 Jahre Mord an Oury Jalloh - ein kollektives Verbechen staatlicher Organe in der BRD
-date:  2014-12-07 20:00:00 +0100
+date:  2014-12-07 20:00:00
 ---
 
 Informationsveranstaltung mit Aktivist_innen der Initiative Oury Jalloh eine Veranstaltung von kosmotique, KOP Dresden und RM16

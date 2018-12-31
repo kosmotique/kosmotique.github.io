@@ -1,6 +1,6 @@
 ---
 title: Einführung in die Geschichte,Theorie und Kritik des Antisemitismus
-date:  2013-07-28 09:00:00 +0100
+date:  2013-07-28 09:00:00
 ---
 
 Seminar mit Oliver Barth, Associazione delle Talpe eine Veranstaltung der AFA Dresden

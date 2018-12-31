@@ -1,6 +1,6 @@
 ---
 title: Kartoffeln und Computer
-date:  2012-11-18 19:00:00 +0100
+date:  2012-11-18 19:00:00
 ---
 
 Lesung und Diskussion mit P.M. präsentiert von Buchladen König-Kurt und kosmotique

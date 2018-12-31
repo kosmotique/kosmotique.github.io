@@ -1,6 +1,6 @@
 ---
 title: Alle kriminell. Das Dresdner 129-Verfahren und die Entwicklung des sächsischen Versammlungsrechts
-date:  2014-11-12 20:00:00 +0100
+date:  2014-11-12 20:00:00
 ---
 
 Vortrag und Diskussion mit Vertretern der Kampagne Sachsens Demokratie

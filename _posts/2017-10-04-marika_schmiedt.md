@@ -1,6 +1,6 @@
 ---
 title: Warum die Wunde offen bleibt
-date:  2017-10-04 20:00:00 +0100
+date:  2017-10-04 20:00:00
 ---
 
 Filmvorführung &amp; Gespräch mit Marika Schmiedt

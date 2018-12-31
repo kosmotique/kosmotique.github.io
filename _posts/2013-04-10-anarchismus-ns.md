@@ -1,6 +1,6 @@
 ---
 title: Und keine Macht der Partei! - Dresdner Anarchismus in Weimarer Republik und NS
-date:  2013-04-10 19:30:00 +0100
+date:  2013-04-10 19:30:00
 ---
 
 Vortrag  eine Veranstaltung des "Interessenkreis Dokumentation" im Libertären Netzwerk FdA IFA

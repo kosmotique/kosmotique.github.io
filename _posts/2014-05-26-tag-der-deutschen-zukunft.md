@@ -1,6 +1,6 @@
 ---
 title: Tag der deutschen Zukunft
-date:  2014-05-26 19:30:00 +0100
+date:  2014-05-26 19:30:00
 ---
 
 Vortrag und Diskussion von und mit dem ART Dresden

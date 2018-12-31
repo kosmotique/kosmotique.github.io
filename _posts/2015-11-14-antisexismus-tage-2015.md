@@ -1,6 +1,6 @@
 ---
 title: Body Image and Fat Empowerment
-date:  2015-11-14 15:00:00 +0100
+date:  2015-11-14 15:00:00
 ---
 
 Workshop im Rahmen der Aktionstage gegen Sexismus und Homophobie

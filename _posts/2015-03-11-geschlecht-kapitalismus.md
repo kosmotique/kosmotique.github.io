@@ -1,6 +1,6 @@
 ---
 title: Geschlecht und Kapitalismus – eine Lovestory ...
-date:  2015-03-11 20:00:00 +0100
+date:  2015-03-11 20:00:00
 ---
 
 Vortrag  von und mit e*vibes// e*skunks

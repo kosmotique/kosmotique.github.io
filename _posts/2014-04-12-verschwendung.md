@@ -1,6 +1,6 @@
 ---
 title: wilful waste with you
-date:  2014-04-12 12:00:00 +0100
+date:  2014-04-12 12:00:00
 ---
 
 Workshop mit dem Club der Verschwender_innen

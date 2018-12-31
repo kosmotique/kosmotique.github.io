@@ -1,6 +1,6 @@
 ---
 title: Das Prinzip Cecosesola
-date:  2014-06-25 20:00:00 +0100
+date:  2014-06-25 20:00:00
 ---
 
 Vortrag und Diskussion  eine Veranstaltung der FAU Dresden

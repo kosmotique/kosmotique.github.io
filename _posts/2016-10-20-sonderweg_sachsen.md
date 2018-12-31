@@ -1,6 +1,6 @@
 ---
 title: Sonderweg Sachsen?
-date:  2016-10-20 20:00:00 +0100
+date:  2016-10-20 20:00:00
 ---
 
 Vortrag &amp; Diskussion mit Peter Korig veranstaltet von gruppe polar

@@ -1,6 +1,6 @@
 ---
 title: Solidarische Erinnerungspolitik für Opfer rassistischer Gewalt
-date:  2017-10-15 14:00:00 +0100
+date:  2017-10-15 14:00:00
 ---
 
 Workshop mit den Betreiber*innen der kosmotique

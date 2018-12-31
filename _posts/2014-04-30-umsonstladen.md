@@ -1,6 +1,6 @@
 ---
 title: Nicht Tausch, nicht Spende, nicht Geschenk. Solidarische Ökonomie im Umsonstladen?
-date:  2014-04-30 20:00:00 +0100
+date:  2014-04-30 20:00:00
 ---
 
 Vortrag und Diskussion von und mit Maria und Martin eine Veranstaltung des Umsonstladen Dresden

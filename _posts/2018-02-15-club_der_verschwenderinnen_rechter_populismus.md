@@ -1,6 +1,6 @@
 ---
 title: Rechter Populismus? Wir wissen was wie wer warum tut!
-date:  2018-02-15 20:00:00 +0100
+date:  2018-02-15 20:00:00
 ---
 
 Lesung und Podiumsgespräch von und mit dem Club der Verschwender*innen

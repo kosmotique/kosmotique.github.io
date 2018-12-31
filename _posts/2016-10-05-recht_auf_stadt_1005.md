@@ -1,6 +1,6 @@
 ---
 title: Die Stadt ist unsere Beute
-date:  2016-10-05 19:00:00 +0100
+date:  2016-10-05 19:00:00
 ---
 
 Workshop zu "Recht auf Stadt für alle" mit gruppe polar im Rahmen der Kritischen Einführungstage

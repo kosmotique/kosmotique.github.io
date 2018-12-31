@@ -1,6 +1,6 @@
 ---
 title: Bericht aus Jelsava/Slowakei
-date:  2017-09-13 20:00:00 +0100
+date:  2017-09-13 20:00:00
 ---
 
 Vortrag von Hannah Köhler im Rahmen des offenen Tresen gegen Antiromaismus

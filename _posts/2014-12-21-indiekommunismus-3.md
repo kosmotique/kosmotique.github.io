@@ -1,6 +1,6 @@
 ---
 title: Über Wiesen
-date:  2014-12-21 20:00:00 +0100
+date:  2014-12-21 20:00:00
 ---
 
 Film &amp; Diskussion in Anwesenheit einiger Film-Macher_innen, ein Film der AG Geschichte im Treibhaus Döbeln &amp; Freund_innen eine Veranstaltung von gruppe polar

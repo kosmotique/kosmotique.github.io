@@ -1,6 +1,6 @@
 ---
 title: Im Namen von Volk und Nation - Die historische Entwicklung des Rechtsterrorismus in Deutschland
-date:  2012-06-15 20:00:00 +0100
+date:  2012-06-15 20:00:00
 ---
 
 Vortrag mit Prof. Dr. Fabian Virchow (FH Düsseldorf) eine Veranstaltung des ART Dresden

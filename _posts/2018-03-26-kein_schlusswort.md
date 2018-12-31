@@ -1,6 +1,6 @@
 ---
 title: Kein Schlusswort!
-date:  2018-03-26 20:00:00 +0100
+date:  2018-03-26 20:00:00
 ---
 
 Buchlesung und Gespräch mit dem Nebenklageanwalt im NSU Prozess Peer Stolle

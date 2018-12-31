@@ -1,6 +1,6 @@
 ---
 title: Polizeigewalt in Kolumbien
-date:  2012-09-07 19:30:00 +0100
+date:  2012-09-07 19:30:00
 ---
 
 Vortrag auf spanisch mit Übersetzung einer Aktivistin von KOP Berlin  eine Veranstaltung von KOP Dresden

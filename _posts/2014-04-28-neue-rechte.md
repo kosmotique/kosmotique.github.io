@@ -1,6 +1,6 @@
 ---
 title: Konservative Revolution und Neue Rechte. Antiemanzipatorische Ideen im intellektuellen Gewand
-date:  2014-04-28 20:00:00 +0100
+date:  2014-04-28 20:00:00
 ---
 
 Vortrag von Volker Weiß eine Veranstaltung der URA Dresden

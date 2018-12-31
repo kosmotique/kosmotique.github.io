@@ -1,6 +1,6 @@
 ---
 title: Das Netzwerk der Abtreibungsgegner*innen
-date:  2017-05-12 19:00:00 +0100
+date:  2017-05-12 19:00:00
 ---
 
 Vortrag und Diskussion mit dem Bündnis pro choice Sachsen

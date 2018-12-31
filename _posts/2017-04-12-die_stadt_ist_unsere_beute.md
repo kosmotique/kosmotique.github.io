@@ -1,6 +1,6 @@
 ---
 title: Die Stadt ist unsere Beute
-date:  2017-04-12 18:00:00 +0100
+date:  2017-04-12 18:00:00
 ---
 
 Workshop zu aktuellen Kämpfen in der Stadt von der gruppe polar im Rahmen von KRETA

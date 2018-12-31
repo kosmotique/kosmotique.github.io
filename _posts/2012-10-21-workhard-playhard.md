@@ -1,6 +1,6 @@
 ---
 title: Work Hard, Play Hard
-date:  2012-10-21 13:00:00 +0100
+date:  2012-10-21 13:00:00
 ---
 
 Preisgekrönter Dokumentarfilm von Carmen Losmann

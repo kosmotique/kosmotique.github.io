@@ -1,6 +1,6 @@
 ---
 title: Tierrechtsrecherchen in der Nutztierhaltung. Umsetzung, Bedeutung und Chancen
-date:  2017-10-13 19:00:00 +0100
+date:  2017-10-13 19:00:00
 ---
 
 Vortrag mit der Tierbefreiung Dresden im Rahmen der Veranstaltungsreihe Learning To Fly - eine andere Welt ist machbar

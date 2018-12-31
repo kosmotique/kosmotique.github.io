@@ -1,6 +1,6 @@
 ---
 title: Kaltland. Eine Sammlung
-date:  2012-08-19 19:00:00 +0100
+date:  2012-08-19 19:00:00
 ---
 
 Lesung mit Markus Liske und Manja Präkels

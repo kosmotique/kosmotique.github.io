@@ -1,6 +1,6 @@
 ---
 title: Handlungsstrategien im Umgang mit "Antifeminismus"
-date:  2014-11-14 14:00:00 +0100
+date:  2014-11-14 14:00:00
 ---
 
 Workshop mit Karin Luttmann, Leiterin und Bildungsreferentin der Landesstelle für Frauenbildung und Projektberatung in Sachsen eine Veranstaltung des Referat Gleichstellungspolitik des StuRa der TUD

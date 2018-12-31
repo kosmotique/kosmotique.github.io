@@ -1,6 +1,6 @@
 ---
 title: Verstetigung des Schreckens
-date:  2017-12-16 21:00:00 +0100
+date:  2017-12-16 21:00:00
 ---
 
 Jahresrevue mit den in der kosmotique organisierten Gruppen und Freund*innen

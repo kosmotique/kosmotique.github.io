@@ -1,6 +1,6 @@
 ---
 title: CasaPound Italia, die Erben Mussolinis
-date:  2014-03-26 19:30:00 +0100
+date:  2014-03-26 19:30:00
 ---
 
 Buchvorstellung und Diskussion mit Heiko Koch eine Veranstaltung von kosmotique und Akubiz e.V. Pirna

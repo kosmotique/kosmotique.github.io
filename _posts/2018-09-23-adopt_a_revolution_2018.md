@@ -1,6 +1,6 @@
 ---
 title: Unsere Revolution als Emanzipation!
-date:  2018-09-23 18:00:00 +0100
+date:  2018-09-23 18:00:00
 ---
 
 Gespräch mit anschließender Publikumsdiskussion mit Mariana Karkoutly und Salam Darwisch, moderiert durch Christin Lüttich von der deutsch-syrischen Solidaritätsorganisation

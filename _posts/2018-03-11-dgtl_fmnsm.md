@@ -1,6 +1,6 @@
 ---
 title: Lumapit Sa Akin, Paraiso
-date:  2018-03-11 20:00:00 +0100
+date:  2018-03-11 20:00:00
 ---
 
 Artist talk &amp; movie screening with Stephanie Comilang // Residency in Hellerau @dgtl fmnsm

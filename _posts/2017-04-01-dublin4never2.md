@@ -1,6 +1,6 @@
 ---
 title: Abbruch Aufbruch! (im AZ Conni)
-date:  2017-04-01 22:00:00 +0100
+date:  2017-04-01 22:00:00
 ---
 
 Party von und mit Kosmotique und AZ Conni

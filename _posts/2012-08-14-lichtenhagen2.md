@@ -1,6 +1,6 @@
 ---
 title: The truth lies in Rostock
-date:  2012-08-14 22:00:00 +0100
+date:  2012-08-14 22:00:00
 ---
 
 Film über die Pogrome 1992 in Rostock-Lichtenhagen

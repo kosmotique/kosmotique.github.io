@@ -1,6 +1,6 @@
 ---
 title: Romane Krla
-date:  2018-10-17 20:00:00 +0100
+date:  2018-10-17 20:00:00
 ---
 
 Gespräch mit Ajriz Bekirovski im Rahmen des offenen Tresen gegen Antiromaismus

@@ -1,6 +1,6 @@
 ---
 title: Warum sich Nichtjuden Davidsterne tätowieren lassen
-date:  2016-11-02 19:00:00 +0100
+date:  2016-11-02 19:00:00
 ---
 
 Vortrag mit Monty Ott

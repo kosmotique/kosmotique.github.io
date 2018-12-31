@@ -1,6 +1,6 @@
 ---
 title: Ich würde es wieder tun – Texte aus dem Kolumbianischen Knast
-date:  2016-08-06 19:00:00 +0100
+date:  2016-08-06 19:00:00
 ---
 
 Vortrag mit dem Kollektiv "textos de la carcel" organisiert von der Roten Hilfe Dresden

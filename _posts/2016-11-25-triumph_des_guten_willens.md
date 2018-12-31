@@ -1,6 +1,6 @@
 ---
 title: Triumph des guten Willens
-date:  2016-11-25 19:00:00 +0100
+date:  2016-11-25 19:00:00
 ---
 
 Filmvorführung von Mikko Linnemann im Rahmen des Klatsch Café

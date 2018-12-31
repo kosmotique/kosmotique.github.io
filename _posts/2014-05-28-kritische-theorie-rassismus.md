@@ -1,6 +1,6 @@
 ---
 title: Kritische Theorie und Rassismus
-date:  2014-05-28 19:00:00 +0100
+date:  2014-05-28 19:00:00
 ---
 
 Vortrag von und mit e*vibes
