@@ -27,24 +27,46 @@
 
       {{ content }}
 
-<ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <div class="overview">
 
         {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}
-          <!--span style="color: grey; float: right;">{% for tag in post.tags %} {{tag}} {% endfor %}</span-->
-		</span>
-
-        <h2>
+        <h2 class="overview">
           <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
         </h2>
-
+        <span class="post-meta">{% assign m = post.date | date: "%-m" %}
+{% assign dy = post.date | date: "%-a" %}
+{% case dy %}
+  {% when "Mon" %}Montag,
+  {% when "Tue" %}Dienstag,
+  {% when "Wed" %}Mittwoch,
+  {% when "Thu" %}Donnerstag,
+  {% when "Fri" %}Freitag,
+  {% when "Sat" %}Samstag,
+  {% when "Sun" %}Sonntag,
+  {% endcase %}
+{{ post.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ post.date | date: "%Y" }},
+{{ post.date | date: "%R" }}
+        </span>
         <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
 
-      </li>
+      </div>
     {% endfor %}
-</ul>
 
       </section>
       <footer>
