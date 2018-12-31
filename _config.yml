@@ -1,3 +1,6 @@
 title: kosmotique
 theme: jekyll-theme-minimal
 logo:  /assets/images/logo.jpg
+
+plugins:
+- jekyll-feed
