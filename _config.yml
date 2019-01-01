@@ -11,3 +11,10 @@ collections:
 collections:
   texts:
     output: true
+
+defaults:
+-
+  scope:
+    path: ""
+  values:
+    layout: "default"
