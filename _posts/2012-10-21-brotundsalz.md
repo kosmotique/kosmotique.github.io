@@ -1,5 +1,5 @@
 ---
-title: Brot &amp; Salz
+title: Brot & Salz
 date:  2012-10-21
 ---
 
