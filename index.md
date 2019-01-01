@@ -1,4 +1,4 @@
 ---
-title: kosmotique
+title: Termine
 layout: home
 ---
