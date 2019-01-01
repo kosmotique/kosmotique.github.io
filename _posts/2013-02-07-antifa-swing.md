@@ -1,5 +1,5 @@
 ---
-title: Swing &amp; Antifa
+title: Swing & Antifa
 date:  2013-02-07 20:00:00
 ---
 
