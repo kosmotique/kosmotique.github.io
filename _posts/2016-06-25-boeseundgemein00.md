@@ -1,5 +1,5 @@
 ---
-title: Böse &amp; Gemein I
+title: Böse & Gemein I
 date:  2016-06-25 13:00:00
 ---
 
