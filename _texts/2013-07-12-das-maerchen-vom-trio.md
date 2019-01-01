@@ -3,9 +3,9 @@ title: '"Das Märchen vom Trio" - zur gesellschaftlichen Normalität des Rassism
 date: 2013-07-12
 ---
 
-Schloßplatz, Dresden, 12.07.2013
-
 Redebeitrag zu den Kundgebungen zum NSU-Umfeld in Dresden, kosmotique und KOP Dresden
+
+Schloßplatz, Dresden, 12.07.2013
 
 Enver Şimşek war Blumenhändler in Schlüchtern und wurde am 9. September 2000 am Rande einer Ausfallstraße im Osten Nürnbergs, wo er seinen mobilen Blumenstand in einer Parkbucht aufgebaut hatte, mit acht Schüssen aus zwei Pistolen angeschossen. Er starb zwei Tage später im Krankenhaus. Enver Şimşek war 38 Jahre alt, er kam 1986 aus der Türkei nach Deutschland, arbeitete zunächst in einer Fabrik, eröffnete einen Blumenhandel und schließlich einen Großhandel mit angeschlossenen Läden und Ständen. Er galt als erfolgreicher Geschäftsmann, war verheiratet und hatte zwei Kinder. Doch nicht nur der Verlust, sondern auch die jahrelangen Befragungen und Verdächtigungen dahingehend, dass Herr Şimşek in Drogengeschäfte verwickelt gewesen sein soll, belasteten die Familie schwer.
 
