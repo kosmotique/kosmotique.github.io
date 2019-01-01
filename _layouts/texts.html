@@ -7,7 +7,8 @@ layout: default
       {{ content }}
 
     <h1>Texte</h1>
-    {% for text in site.texts %}
+    {% assign items = site.texts | reverse %}
+    {% for text in items %}
       <div class="overview">
 
         {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
