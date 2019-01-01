@@ -13,3 +13,10 @@ Die Spendenbescheinigung zur Vorlage beim Finanzamt bekommen Förderinnen und F�
 Die Fördermitgliedschaft erlischt automatisch nach drei ausstehenden Monatsbeiträgen. Wir bitten jedoch um die schriftliche Erklärung des Austritts an [betreiber_innen at kosmotique.org](mailto:betreiber_innen@kosmotique.org). Die Beitragshöhe kann per Antrag an o.g. Email-Adresse auch angepasst werden.
 
 Förderinnen und Förderer werden per Email über die Aktivitäten von kosmotique e.V. informiert und regelmäßig zu unseren Veranstaltungen eingeladen.
+
+Downloads:
+
+* [diese Informationen als pdf](/files/foerdermitgliedschaft_info.pdf)
+* [Antrag Fördermitgliedschaft](/files/foerdermitgliedschaft_antrag.pdf)
+* [Satzung](/files/kosmotique_satzung.pdf)
+* [vereinfachter Zuwendungsnachweis](/files/zuwendungsnachweis.pdf)

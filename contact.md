@@ -14,11 +14,11 @@ Wir haben jeden Mittwoch ab 20:00 Uhr geöffnet.
 
 betreiber_innen (at) kosmotique.org
 
-Ihr könnt uns verschlüsselt schreiben: [PGP key](kosmotique.gpg.asc)
+Ihr könnt uns verschlüsselt schreiben: [PGP key](/files/kosmotique.gpg.asc)
 
 # Nutzungsanfragen
 
-Die Räume können und sollen selbstverständlich auch von anderen politischen Gruppen für Filmreihen, Vorträge, Lesekreise, Workshops, Tagesseminare oder Ausstellungen genutzt werden. Voraussetzungen sind, dass der Raum noch frei ist, wir die personellen Ressourcen haben und es thematische Gemeinsamkeiten (mit unserem [Selbstverständnis](/about)) gibt.
+Die Räume können und sollen selbstverständlich auch von anderen politischen Gruppen für Filmreihen, Vorträge, Lesekreise, Workshops, Tagesseminare oder Ausstellungen genutzt werden. Voraussetzungen sind, dass der Raum noch frei ist, wir die personellen Ressourcen haben und es thematische Gemeinsamkeiten (mit unserem [Selbstverständnis](/about.html)) gibt.
 
 Wenn ihr Kosmotique nutzen möchtet, fragt dazu bitte mindestens drei bis vier Wochen vorher per Email an und teilt uns alle Informationen zu euren Plänen mit, damit wir sie beurteilen können.
 

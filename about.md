@@ -23,7 +23,7 @@ Für Veranstaltungsankündigungen könnt ihr uns gerne auf [Twitter folgen](http
 
 Wir plenieren jeden 2. und 4. Dienstag im Monat um 20 Uhr. Ab 21 Uhr ist unser Plenum offen für Gäste, d.h. für Nutzungsanfragen. Gerne könnt ihr uns auch vorab informieren und eine Mail schreiben an [betreiber_innen (at) kosmotique.org](mailto:betreiber_innen@kosmotique.org).
 
-Wir sind politisch und finanziell unabhängig von Parteien oder anderen Institutionen. Alle Veranstaltungen finden kostenfrei statt und dienen der politischen, internationalistischen und kulturellen Bildung. Finanziert wird unser Raum über Fördermitgliedschaften. Unterstützt uns!
+Wir sind politisch und finanziell unabhängig von Parteien oder anderen Institutionen. Alle Veranstaltungen finden kostenfrei statt und dienen der politischen, internationalistischen und kulturellen Bildung. Finanziert wird unser Raum über Fördermitgliedschaften. [Unterstützt uns!](/support.html)
 
 kosmotique Betreiber*innen Kollektiv, November 2018
 
