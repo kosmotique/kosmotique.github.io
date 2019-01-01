@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div>
+
+      {{ content }}
+
+    <h1>Texte</h1>
+    {% for text in site.texts %}
+      <div class="overview">
+
+        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+        <h2 class="overview">
+          <a class="post-link" href="{{ text.url | relative_url }}" title="{{ text.title }}">{{ text.title | escape }}</a>
+        </h2>
+        <span class="post-meta">{% assign m = text.date | date: "%-m" %}
+{{ text.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}M&auml;rz
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ text.date | date: "%Y" }}
+        </span>
+        <span class="post-excerpt">{{ text.excerpt | markdownify | truncatewords: 30 }}</span>
+
+      </div>
+    {% endfor %}
+
+</div>
