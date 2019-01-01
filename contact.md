@@ -10,7 +10,7 @@ Wir haben jeden Mittwoch ab 20:00 Uhr geöffnet.
 
 # Email
 
-betreiber_innen (at) kosmotique.org
+[betreiber_innen (at) kosmotique.org](betreiber_innen@kosmotique.org)
 
 Ihr könnt uns verschlüsselt schreiben: [PGP key](/files/kosmotique.gpg.asc)
 
