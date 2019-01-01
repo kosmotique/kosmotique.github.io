@@ -1,4 +1,8 @@
-## Die Provinz braucht genau die Leute, die sie ständig vertreibt. „... je feindlicher die Umgebung und je unwirtlicher der große Ort, desto wichtiger ist es, dass es konkrete Orte gibt“. [1]
+---
+title: Die Provinz braucht genau die Leute, die sie ständig vertreibt.
+---
+
+*„... je feindlicher die Umgebung und je unwirtlicher der große Ort, desto wichtiger ist es, dass es konkrete Orte gibt“. [1]*
 
 Wir sind ein Kollektiv von politischen Aktivist*innen, die größtenteils seit Mitte/Ende der 1990er Jahre in Dresden und darüber hinaus aktiv sind. Seit 2012 betreiben wir die kosmotique in einem ehemaligen Ladenlokal in der Martin-Luther-Str. 13 als einen politischen Raum, den wir gemeinsam mit anderen Gruppen und Kollektiven mit Kritik und linker Praxis füllen. Regelmäßig finden in der kosmotique Vorträge, Filmvorführungen, Workshops und Tagesseminare und Treffen politischer Gruppen und Initiativen statt.
 

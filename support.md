@@ -1,8 +1,7 @@
 ---
-title: Fördermitglied werden
+title: Bist Du schon Förderin?
 published: true
 ---
-# Bist Du schon Förderin?
 
 Förderinnen und Förderer unterstützen den Verein ideell und finanziell. Wir wollen die Unterstützung auf viele Schultern verteilen. Weil die Verwaltung von Fördermitgliedschaften und -beiträgen Arbeit macht und kein Selbstzweck sein soll, schätzen wir besonders Mitglieder, die uns aus dem Hintergrund unterstützen ohne umfangreiche Dienstleistungen zu erwarten. Sie ermöglichen, dass wir uns auf unsere eigentlichen Aktivitäten konzentrieren können.
 

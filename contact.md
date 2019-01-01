@@ -1,8 +1,6 @@
 ---
-title: Kontakt
+title: Laden
 ---
-
-# Laden
 
 kosmotique e.V.
 Martin-Luther-Str. 13
