@@ -15,7 +15,7 @@ layout: default
           <a class="post-link" href="{{ text.url | relative_url }}" title="{{ text.title }}">{{ text.title | escape }}</a>
         </h2>
         <span class="post-meta">{% assign m = text.date | date: "%-m" %}
-{{ text.date | date: "%-d" }}
+{{ text.date | date: "%-d" }}.
 {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
