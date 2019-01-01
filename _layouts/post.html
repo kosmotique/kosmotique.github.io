@@ -4,9 +4,7 @@ layout: default
 
 <div>
 
-      {{ content }}
-
-      <span class="post-meta">{% assign m = page.date | date: "%-m" %}
+      <div class="post-date">{% assign m = page.date | date: "%-m" %}
 {% assign dy = page.date | date: "%-a" %}
 {% case dy %}
   {% when "Mon" %}Montag,
@@ -34,6 +32,8 @@ layout: default
 {% endcase %}
 {{ page.date | date: "%Y" }},
 {{ page.date | date: "%R" }} Uhr
-        </span>
+        </div>
+
+      {{ content }}
 
 </div>
