@@ -6,8 +6,6 @@ kosmotique e.V.
 Martin-Luther-Str. 13
 01099 Dresden
 
-Wir haben jeden Mittwoch ab 20:00 Uhr geöffnet.
-
 # Email
 
 [betreiber_innen (at) kosmotique.org](betreiber_innen@kosmotique.org)
