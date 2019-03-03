@@ -1,6 +1,6 @@
 ---
 title: Streikcafé, Feminist Foto-Shooting & Amusement
-date: 2019-03-08
+date: 2019-03-08T10:00:00
 ---
 
 **...the item of my exploitation...**
