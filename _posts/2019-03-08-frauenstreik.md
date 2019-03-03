@@ -3,9 +3,7 @@ title: Streikcafé, Feminist Foto-Shooting & Amusement
 date: 2019-03-08T10:00:00
 ---
 
-**...the item of my exploitation...**
-
-the thing.. the item.. the object.. der Gegenstand.. das Symbol.. das
+_the item of my exploitation:_ the thing.. the item.. the object.. der Gegenstand.. das Symbol.. das
 Dings.. die Schose.. das Artefakt.. das Fabrikat.. das Produkt.. der
 Apparat.. das Etwas.. das Faktum.. das Paradestück.. die Substanz.. der
 Stoff.. der Artikel.. der ganze Mist.. das Material.. das Problem...
