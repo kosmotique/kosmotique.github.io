@@ -1,6 +1,6 @@
 ---
 title: "Es brennt in Plauen"
-date: 2019-11-22T20:00:00
+date: 2019-11-20T20:00:00
 ---
 
 Die Brandanschläge auf Rom\*nja in Plauen/Vogtland zum Jahreswechsel 2017/2018 sind schon vergessen.
