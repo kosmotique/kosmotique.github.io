@@ -3,6 +3,8 @@ title: "Bewegung in der neoliberalen Stadt"
 date: 2020-01-16 19:00:00
 ---
 
+Die Veranstaltung wurde wegen Krankheit auf unbestimmte Zeit verschoben!
+
 Im globalen Wettbewerb haben sich Städte in eine Goldgrube für gewinnsuchendes Kapital verwandelt.
 Investoren sind zu einflussreichen Akteuren der Stadtentwicklung geworden. Dadurch verschärft sich
 die Frage nach den Möglichkeiten und Perspektiven von politischer Beteiligung.
