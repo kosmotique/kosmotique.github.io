@@ -7,7 +7,7 @@ Auseinandersetzung um Frauen als Täterinnen im Nationalsozialismus für
 die radikale feministische Bewegung seit den 1980er Jahren in der BRD
 bis in die Gegenwart vorgestellt und diskutiert. 
 
-Im Vodergrund stehen,neben den theoretischen und praktischen Überlegungen der feministischen
+Im Vodergrund stehen, neben den theoretischen und praktischen Überlegungen der feministischen
 Debatten, die biografischen Entscheidungen zweier Feminist*innen: Ingrid
 Strobl hat antifaschistische und jüdische Frauen im bewaffneten
 Widerstand interviewt und sich mit Militanz und Geschlecht
