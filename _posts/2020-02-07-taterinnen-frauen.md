@@ -1,6 +1,6 @@
 ---
 title: **"Täterinnenschaft - Frauen - Feminismus - Körper und Nationalsozialismus- Deutschland, nein danke!"**
-date: 2---020-02-07 20:00:00
+date: 2020-02-07 20:00:00
 ---
 Am Abend des "Aber eigentlich ist es der erste..." wird die
 Auseinandersetzung um Frauen als Täterinnen im Nationalsozialismus für
