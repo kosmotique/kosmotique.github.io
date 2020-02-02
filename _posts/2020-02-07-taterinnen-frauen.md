@@ -2,7 +2,7 @@
 title: "Täterinnenschaft - Frauen - Feminismus - Körper und Nationalsozialismus - Deutschland, nein danke!"
 date: 2020-02-07 20:00:00
 ---
-Am Abend des ["Aber eigentlich ist es der erste..."](http://kosmotique.org/2019/12/06/der-erste.html) wird die
+Am Abend des "Aber eigentlich ist es der erste..." wird die
 Auseinandersetzung um Frauen als Täterinnen im Nationalsozialismus für
 die radikale feministische Bewegung seit den 1980er Jahren in der BRD
 bis in die Gegenwart vorgestellt und diskutiert. 
