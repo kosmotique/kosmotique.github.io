@@ -7,8 +7,8 @@ Auseinandersetzung um Frauen als Täterinnen im Nationalsozialismus für
 die radikale feministische Bewegung seit den 1980er Jahren in der BRD
 bis in die Gegenwart vorgestellt und diskutiert. 
 
-Im Vodergrund stehen, neben den theoretischen und praktischen Überlegungen der feministischen
-Debatten, die biografischen Entscheidungen zweier Feminist*innen: Ingrid
+Im Vordergrund stehen, neben den theoretischen und praktischen Überlegungen der feministischen
+Debatten, die biografischen Entscheidungen zweier Feminist\*innen: Ingrid
 Strobl hat antifaschistische und jüdische Frauen im bewaffneten
 Widerstand interviewt und sich mit Militanz und Geschlecht
 auseinandergesetzt. Christina Thürmer-Rohr, Pionierin der feministischen
@@ -16,9 +16,9 @@ Theorie und Musikerin, sagt uns: Geschlecht und Nation sind keinen
 Blumentopf wert. Denn "Frausein allein ist kein Programm!", und das
 "Anfangen" wollen wir lernen.
 
-*Warum kein Stern?
+\*Warum kein Stern?
 Die Bipolarität der Geschlechterzuschreibung ist Teil
-nationalsozialistischer Ideologie, und daher wurden Frauen* verfolgt.
-Deshalb benutzen wir keinen * oder andere emanzipatorische Sprache für
+nationalsozialistischer Ideologie, und daher wurden Frauen\* verfolgt.
+Deshalb benutzen wir keinen \* oder andere emanzipatorische Sprache für
 die Täterinnen.
 
