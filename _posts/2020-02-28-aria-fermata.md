@@ -1,5 +1,5 @@
 ---
-titel: "Aria Fermata. Chant of a washing machine"
+title: "Aria Fermata. Chant of a washing machine"
 date: 2020-02-28 19:00:00
 ---
 
