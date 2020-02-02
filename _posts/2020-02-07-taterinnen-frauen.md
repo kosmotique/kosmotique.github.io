@@ -22,3 +22,4 @@ nationalsozialistischer Ideologie, und daher wurden Frauen\* verfolgt.
 Deshalb benutzen wir keinen \* oder andere emanzipatorische Sprache für
 die Täterinnen.
 
+"Aber eigentlich ist es der erste..." ist unser neues Format. Wir laden am ersten Freitag im Monat zur kosmopolitischen Bar plus wechselndem Programm in die Kosmotique. Wir machen Lesungen, Talks, sehen Filme und was uns sonst Interessantes über den Weg läuft. Gerne können auch Eigenproduktionen, Beliebtes oder Strittiges vorgestellt und diskutiert werden.
