@@ -3,7 +3,7 @@ title: "Kampf den schmutzigen Zuständen"
 date: 2020-04-07
 ---
 
-Die kosmotique beteiligt sich an dem folgendem Aufruf von [Beyond Europe](https://beyondeurope.net/) und friends. Unterstützt mit uns gemeinsam die selbstverwaltete Fabrik Vio.Me in Thessaloniki und die Geflüchteten in Moria.
+Die kosmotique beteiligt sich an dem folgenden Aufruf von [Beyond Europe](https://beyondeurope.net/) und friends. Unterstützt mit uns gemeinsam die selbstverwaltete Fabrik Vio.Me in Thessaloniki und die Geflüchteten in Moria.
 
 #levanenoonebehind #powertoviome
 
