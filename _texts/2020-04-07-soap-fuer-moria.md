@@ -24,13 +24,10 @@ Die menschenunwürdigen Elendslager müssen evakuiert werden! Ein wenig Seife bl
 Kampf den schmutzigen Zuständen! Unsere Waffe bleibt Solidarität!
 
 Überweist eure Spenden bitte auf folgendes Konto:
-
+```
 kosmotique e.V.
-
 GLS Gemeinschaftsbank e.G.
-
 BIC: GENODEM1GLS
-
 IBAN: DE83430609671130360500
-
-**Verwendungszweck:** "Seife für Moria"
+!Verwendungszweck:! Seife für Moria
+```
