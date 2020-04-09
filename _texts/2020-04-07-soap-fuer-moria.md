@@ -31,3 +31,4 @@ BIC: GENODEM1GLS
 IBAN: DE83430609671130360500
 !Verwendungszweck:! Seife für Moria
 ```
+Ab einem Betrag von 200 € stellen wir Euch gerne eine Spendenbescheinigung aus. In diesem Fall schreibt uns bitte eine E-mail mit Eurer Adresse an betreiber_innen (at) kosmotique.org oder schreibt sie in den Verwendungszweck bei der Überweisung rein.
