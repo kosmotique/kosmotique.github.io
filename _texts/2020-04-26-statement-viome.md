@@ -6,7 +6,7 @@ Vielen Dank an Euch alle, die ihr den [Spendenaufruf](http://kosmotique.org/text
 
 Die frohe Botschaft zuerst: Eine erste Seifenlieferung über 1.500 € ist bereits auf Lesbos angekommen, eine zweite Bestellung über 2.000 € ist mittlerweile unterwegs. Leider ist die weiterhin notwendige solidarische Produktion vorerst ausgesetzt, da der griechische Staat und die Stromgesellschaft DEI der kollektiv betriebenen Fabrik den Strom gekappt haben. Die kurzfristig bereit gestellten Stromgeneratoren sind zu klein für die zur Produktion notwendigen Maschinen. Darum sammeln wir weiterhin Spenden, damit VIO.ME mit einem größeren Biodiesel-Generator die Produktion wieder aufnehmen kann.
 
-Solidarität mit den Arbeiter\*innen von VIO.ME - Schluss mit der Sabotage Ihrer Produktion!
+Solidarität mit den Arbeiter\*innen von VIO.ME - Schluss mit der Sabotage ihrer Produktion!
 
 Evakuiert die 20.000 Geflüchten aus Moria! #leavenoonebehind
 
