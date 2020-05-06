@@ -1,5 +1,5 @@
 ---
-title: Komm und sieh. Eine Einführung von Johannes Spohr
+title: Komm und sieh. Eine Einführung von Johannes Spohr.
 date: 2020-05-09
 ---
 
@@ -8,5 +8,3 @@ gedacht und diese gefeiert. Einen Ausschnitt dessen, wovon die Welt 1945 befreit
 wurde, bildet der Film Komm und sieh ab. Der Historiker und Journalist
 Johannes Spohr gibt in dieser [Einführung zu Komm und sieh](https://www.preposition.de/wp-content/uploads/2020/05/komm_und_sieh_2020.pdf) Auskunft über den Film und seine Hintergründe. 
 
-<a target='_blank' href={require('https://github.com/kosmotique/kosmotique.github.io/images/komm_und_sieh_2020.pdf')}>PDF Doc</a>
-<embed src="https://github.com/kosmotique/kosmotique.github.io/images/komm_und_sieh_2020.pdf" type="application/pdf" />
