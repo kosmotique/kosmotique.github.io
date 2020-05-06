@@ -1,6 +1,6 @@
 ---
 title: "Geh und sieh"
-date: 2020-05-09 20:00:00
+date: 2020-05-09
 ---
 
 "Tötet Hitler" wollte Regisseur Elem Klimow den Film über den Vernichtungskrieg
