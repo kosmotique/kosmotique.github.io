@@ -1,6 +1,6 @@
 ---
 title: "Argumentepanzer"
-date: 2020-10-17 20:00:00
+date: 2020-10-16 20:00:00
 ---
 
 Szenische Lesung von und mit Ted Gaier
