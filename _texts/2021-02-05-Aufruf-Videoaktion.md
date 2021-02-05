@@ -2,9 +2,7 @@
 title: „Video-Aktion zum internationalistischen Frauen*kampftag“
 date: 2021-02-05 
 ---
-**rage against the work routine, computer screen, mental hygiene, canteen, evergreen, Zoom-Termin, wolverine, sarrazin, sun screen, latrine, neat and clean, look-like-eighteen, Disziplin, fitness routine**
-
-Aufruf zum Dreh! Holt eure Boots, Hämmer, Äxte, High Heels, Nudelhölzer, Fliegenklatschen, Baseballschläger, Taschentücher, Therabänder, Feuerlöscher, Kakteen, Kettlebells etc. raus:
+**rage against the work routine, computer screen, mental hygiene, canteen, evergreen, Zoom-Termin, wolverine, sarrazin, sun screen, latrine, neat and clean, look-like-eighteen, Disziplin, fitness routine** -- Aufruf zum Dreh! Holt eure Boots, Hämmer, Äxte, High Heels, Nudelhölzer, Fliegenklatschen, Baseballschläger, Taschentücher, Therabänder, Feuerlöscher, Kakteen, Kettlebells etc. raus:
 
 Die Corona-Krise zeigt deutlicher als sonst Bekanntes: Frauen\* sind privat und beruflich am stärksten von den Auswirkungen gesellschaftlicher Krisen betroffen! Wir sind mit dem Wahnsinn kapitalistischer Produktion in einer Pandemie konfrontiert und sollen mit "weiblicher Güte" den Betrieb gelassen und human am Laufen halten. Nicht nur dass wir arbeiten sollen, das soll sich auch noch wie Vernunft anfühlen. Weibliche Sozialisation schluckt die Überstunde, sichert die gute Atmosphäre im Betrieb, die Kommunikation im Job. Neben der Lohnarbeit sind vermeintlich weibliche Skills mehr denn je gefragt: Denn wir können zaubern: Wir sind Ersatzlehrer\*innen, Zulieferdienste, Psycholog\*innen, leidenschaftliche Partner\*innen, Logistikunternehmer\*innen, Pfleger\*innen, Life Coach\*innen, Interior Designer\*innen, Animateur\*innen, Freizeitgestalter\*innen, Physiotherapeut\*innen, Ernährungsberater\*innen und alles, was es braucht, um diese Gesellschaft zu ermöglichen. Doch wir sind erschöpft, frustriert und unendlich wütend! Wir wollen endlich die gerechte Aufteilung der Sorgearbeit!
 
