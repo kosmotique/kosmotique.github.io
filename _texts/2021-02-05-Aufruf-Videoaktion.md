@@ -15,7 +15,7 @@ Wir wollen nicht zurück in den patriachalen, rassistischen und kapitalistischen
 
 Es geht nicht darum, die individualcoole Inszenierung hinzulegen (wir sind nicht Instagram), sondern um einen Anlass, um wieder in die kämpferische Diskussion über Ungerechtigkeiten, gemeinsame Erfahrungen und gemeinsame Wut zu kommen mit dem Ziel, dem solidarisch zu begegnen, ohne es dabei schön >>unter uns<< zu klären. 
 
-Eure Videoclips werden um den 8. März 2021 im Loop an die Schaufensterscheibe der [kosmotique](www.kosmotique.org) projiziert. 
+Eure Videoclips werden um den 8. März 2021 im Loop an die Schaufensterscheibe der kosmotique projiziert. 
 
 
 Wie ihr mitmachen könnt:
