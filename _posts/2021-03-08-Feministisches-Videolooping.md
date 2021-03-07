@@ -14,7 +14,7 @@ Whooohooo ... wir freuen uns riesig, dass so viele unseren [Aufruf](http://kosmo
 
 Außerdem gibt es die Clips auch auf dem [YouTube-Channel des F\*Streik-Netzwerkes Dresden](https://www.youtube.com/watch?v=r-AVezERC0o) zu sehen. Den veröffentlichen wir aber erst um 14 Uhr am 8. März 2021.
 
-![kosmotique FLINTA Streik 8. März 2021](/images/https://github.com/kosmotique/kosmotique.github.io/blob/master/images/2021-03-08%20FLINTA%20Streik%20Schatten.jpg)
+![kosmotique FLINTA Streik 8. März 2021](/images/2021-03-08%20FLINTA%20Streik%20Schatten.jpg)
 
 FLINT\*As fight back!
 
