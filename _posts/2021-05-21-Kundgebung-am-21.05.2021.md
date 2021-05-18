@@ -54,9 +54,15 @@ Wir trauern
 Wir trauern darum, dass so etwas überhaupt passieren konnte. Uns verbinden Trauer und Wut darüber, dass wir in einer Welt leben, in der Menschen wegen ihrer sexuellen Orientierung und ihres Begehrens ermordet werden. Wir wollen uns der Verantwortung stellen, die daraus entsteht.
 
 Antifaschistische Initiative Löbtau
+
 Gruppe Polar
+
 kosmotique
+
 Initiative für Frieden in Kurdistan
+
 Queer Pride Dresden
+
 Seebrücke Dresden
+
 Women Defend Rojava Dresden
