@@ -5,7 +5,7 @@ date: 2021-05-21 09:00:00
 
 Aufruf zur Kundgebung am 21.05.2021 anlässlich des homofeindlichen Mordes in Dresden
 
-9:00 Oberlandesgericht Hammerweg 26 // 16:00 Schloßstraße Ecke Seestraße
+**9:00 Oberlandesgericht Hammerweg 26 // 16:00 Schloßstraße Ecke Seestraße**
 
 Im Oktober 2020 ermordete ein islamistischer Attentäter in Dresden einen Menschen und verletzte einen weiteren schwer. Seine menschenverachtende Einstellung, religiöser Fanatismus und letzten Endes seine homofeindliche Einstellung waren Motive dieses Mordes.
 
