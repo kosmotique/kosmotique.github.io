@@ -1,5 +1,5 @@
 ---
-title: „Emanzipatorisch gegen Islamismus und Queerfeindlichkeit!“
+title: "Emanzipatorisch gegen Islamismus und Queerfeindlichkeit!"
 date: 2021-05-21 09:00:00
 ---
 
