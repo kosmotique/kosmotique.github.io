@@ -22,7 +22,6 @@ Dass die Sicherheitsbehörden keine Analyse bzw. kein Interesse daran haben, ein
 
 Mangelnde Aufarbeitung und die Kriminalisierung von linken Aktivist*innen
 
-
 Der Täter hatte Verbindungen zum IS und wurde durch diese Strukturen bei seiner Tat bestärkt. Jedoch wurden nähere Verstrickungen zu der terroristischen Organisation im Gerichtsprozess nur mangelhaft aufgearbeitet - so wurden relevante Zeug*innen nicht geladen. Es bleibt – wiederholt – der fade Beigeschmack, dass der Verfassungsschutz der Öffentlichkeit eine Vielzahl von Informationen vorenthält.
 
 
