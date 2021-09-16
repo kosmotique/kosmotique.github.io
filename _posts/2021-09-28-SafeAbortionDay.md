@@ -20,7 +20,7 @@ Wir fordern eine vollständige Legalisierung durch Streichung des § 218 aus dem
 
 Was:    Infostände 16:00 - 19:00 Uhr
         Kundgebung 17:00 -19:00 Uhr
-Wo:     Goldener Reiter, Neustädter Markt
+Wo:     Goldener Reiter, Neustädter Markt, Dresden
 
 Veranstalterinnen:  Pro Choice Sachsen und Pro Familia
 
