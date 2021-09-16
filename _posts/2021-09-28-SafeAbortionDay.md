@@ -1,6 +1,6 @@
 ---
 title: "Auf zum ... Safe Abortion Day 2021!"
-date: 2021-08-28 16:00:00
+date: 2021-09-28 16:00:00
 ---
 
 Kundgebung und Infostände
