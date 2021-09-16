@@ -3,7 +3,7 @@ title: "Auf zum ... Safe Abortion Day 2021!"
 date: 2021-09-28 16:00:00
 ---
 
-Kundgebung und Infostände am
+[Kundgebung und Infostände](https://www.schweigemarsch-stoppen.de/2021/09/06/kundgebung-und-infostaende-zum-safe-abortion-day-2021/) am
 Dienstag, den 28.09.2021, 16 - 19 Uhr, Goldener Reiter.
 Der 28. September ist als Safe Abortion Day  der internationale Aktionstag für einen sicheren, entkriminalisierten, kostenfreien Zugang zum Schwangerschaftsabbruch. In diesem Jahr steht dieser Tag bundesweit unter dem Motto „150 Jahre Widerstand gegen § 218“. 2021 begeht dieser
 deutsche Strafrechtsparagraph tatsächlich sein 150-jähriges Jubiläum. Am 15. Mai 1871 wurden die Bestimmungen zum Schwangerschaftsabbruch im ersten Reichsstrafgesetzbuch verabschiedet. Dort steht er heute noch neben Mord und Totschlag! Wir finden: 150 Jahre sind 150 Jahre zuviel -
