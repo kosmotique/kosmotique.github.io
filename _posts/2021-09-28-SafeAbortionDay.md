@@ -25,5 +25,5 @@ Wo:     Goldener Reiter, Neustädter Markt, Dresden
 Veranstalterinnen:  Pro Choice Sachsen und Pro Familia
 
 Weitere Informationen unter:
-[www.pro-choice-sachsen.de](www.pro-choice-sachsen.de), Twitter: @ProChoice_SN, Facebook:
+[www.pro-choice-sachsen.de](https://www.pro-choice-sachsen.de), Twitter: @ProChoice_SN, Facebook:
 @prochoicesachsen
