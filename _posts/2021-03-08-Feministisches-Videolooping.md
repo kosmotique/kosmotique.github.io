@@ -12,7 +12,6 @@ Whooohooo ... wir freuen uns riesig, dass so viele unseren [Aufruf](http://kosmo
 * [Platzda](https://platzda.space/), Wernerstraße 21, Dresden: 8. März 2021, ab 12 Uhr
 * [AKuBiZ](https://www.akubiz.de), Kirchgasse 2, Pirna: 8. März 2021, 10 Uhr bis 15 Uhr
 
-Außerdem gibt es die Clips auch auf dem [YouTube-Channel des F\*Streik-Netzwerkes Dresden](https://www.youtube.com/watch?v=r-AVezERC0o) zu sehen. Den veröffentlichen wir aber erst um 14 Uhr am 8. März 2021.
 
 ![kosmotique FLINTA Streik 8. März 2021](/images/2021-03-08%20FLINTA%20Streik%20Schatten.jpg)
 
@@ -20,3 +19,4 @@ FLINT\*As fight back!
 
 [F\*Streik-Netzwerk Dresden](https://www.f-streikdresden.de/)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r-AVezERC0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
