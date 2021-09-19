@@ -9,4 +9,5 @@ Ort: Martin-Luther-Straße 13, Dresden.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fkosmotique%2Fhot-topic-ikonen-teil-1-deutsch-redebeitrag-zur-queer-pride-dresden-18092021%2F" frameborder="0" ></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0idmTWxFs1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
