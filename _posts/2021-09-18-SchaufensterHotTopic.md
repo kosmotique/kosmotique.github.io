@@ -3,6 +3,8 @@ title: "Hot Topic Feminism - Schaufensterausstellung an der Kosmoscheibe vom 18.
 date: 2021-09-18 00:00:00
 ---
 
+![2021-09-18 kosmotique Hot Topic Schaufensterausstellung](/images/2021-09-18 kosmotique Hot Topic Schaufensterausstellung.jpg)
+
 Anhand des Songs Hot Topic von Le Tigre sind Redebeiträge für die [Queer Pride am 18.09.2021 in Dresden](https://www.queerpridedd.org/) entstanden. "Stop, we won’t stop. Don’t you stop. I can’t live if you stop"!
 Wir stellen in der kleinen Ausstellung die darin gefeierten Heroines, Stars, Kämpfer\*innen vor und porträtieren dazu eigene Vorbilder, Aktivitäten und Ikonen. We won’t stop!
 Ort: Martin-Luther-Straße 13, Dresden.
