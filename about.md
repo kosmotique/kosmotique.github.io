@@ -25,4 +25,4 @@ Wir sind politisch und finanziell unabhängig von Parteien oder anderen Institut
 
 kosmotique Betreiber\*innenkollektiv, Februar 2020
 
-1. Klaus Walter in: „Ortsverschiebungen. Tisch Nord“, testcard # 20 Access Denied – Ortsverschiebungen in der realen und virtuellen Gegenwart
+[1] Klaus Walter in: „Ortsverschiebungen. Tisch Nord“, testcard # 20 Access Denied – Ortsverschiebungen in der realen und virtuellen Gegenwart
