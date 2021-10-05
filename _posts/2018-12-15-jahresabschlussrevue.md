@@ -4,7 +4,7 @@ date: 2018-12-15 20:00:00
 ---
 
 **If nothing works: Play the music** - Jahresrückblick mit friends. Als special guest begrüßen wir den
-Chor [PIR-MOLL](www.pir-moll.de), der es sich zur Aufgabe gemacht hat, "fast vergessene
+Chor [PIR-MOLL](https://www.pir-moll.de), der es sich zur Aufgabe gemacht hat, "fast vergessene
 antifaschistische Lieder" zu interpretieren.
 
 Das Ganze wird mit dem Glücksspiel "Pullen schupsen" für
