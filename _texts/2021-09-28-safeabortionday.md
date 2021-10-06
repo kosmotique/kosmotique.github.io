@@ -2,6 +2,8 @@
 title: Redebeitrag zum SafeAbortionDay am 28. September 2021
 date: 2021-09-28 
 ---
+Wir haben uns an der Kundgebung zum SafeAbortionDay mit folgenden Redebeitrag beteiligt:
+
 In den letzten Monaten veröffentlichte die taz - die Berliner Tageszeitung - mehrere umfangreiche Recherchen - eine besorgniserregender als die andere: Über die Finanzierung von antifeministischen Organisationen in Europa durch russische Oligarchen und die christliche Rechte in den USA, über die Einflussnahme von christlich-fundamentalistischen Petitionsplattformen wie CitizenGo auf das Abstimmungsverhalten im EU-Parlament, und über die zunehmend globale Vernetzung von Evangelikalen und Rechtsradikalen.
 
 Es ist mehr als deutlich: Wir müssen als Feminist\*innen noch mehr in Bewegung kommen gegen die europaweit bzw. international gut vernetzten und organisierten und dabei großzügig finanzierten christlichen Fundamentalist\*innen. Der Druck von der kirchlichen und rechten Seite auf die Regierungen sorgt dafür, dass sich an der aktuellen Situation nichts verbessert - wir haben es hierzulande an der Debatte um § 219a erlebt. Aber warum wir auch noch mehr ins Kämpfen kommen müssen: Es geht nicht nur darum, das Recht auf kostenlose, sichere und wohnortnahe Schwangerschaftsabbrüche zu erkämpfen, und dafür schauen wir voller Begeisterung nach Irland und Argentinien, es geht auch darum, dass sich unsere Situation als Feminist\*innen, Queers und potenziell von ungewollten Schwangerschaft Betroffene nicht noch weiter verschlechtert, dazu schauen wir voller Sorge nach Ungarn und Polen. Wir dürfen nicht nichts tun! Wir müssen alles uns Mögliche tun!
