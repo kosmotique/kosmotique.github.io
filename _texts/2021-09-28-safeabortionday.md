@@ -1,8 +1,8 @@
 ---
-title: Redebeitrag zum SafeAbortionDay am 28. September 2021
+title: Unser Redebeitrag zum SafeAbortionDay am 28. September 2021
 date: 2021-09-28 
 ---
-Wir haben uns an der Kundgebung zum SafeAbortionDay mit folgenden Redebeitrag beteiligt:
+
 
 In den letzten Monaten veröffentlichte die taz - die Berliner Tageszeitung - mehrere umfangreiche Recherchen - eine besorgniserregender als die andere: Über die Finanzierung von antifeministischen Organisationen in Europa durch russische Oligarchen und die christliche Rechte in den USA, über die Einflussnahme von christlich-fundamentalistischen Petitionsplattformen wie CitizenGo auf das Abstimmungsverhalten im EU-Parlament, und über die zunehmend globale Vernetzung von Evangelikalen und Rechtsradikalen.
 
