@@ -22,4 +22,4 @@ https://taz.de/Online-Petitionen-gegen-Abtreibung/!5786746/
 
 https://taz.de/Globale-Allianzen-der-neuen-Rechten/!5792401/
 
-![Bildtitel](/images/20210928_163836.jpg)
+![Fight rollback](/images/20210928_163836.jpg)
