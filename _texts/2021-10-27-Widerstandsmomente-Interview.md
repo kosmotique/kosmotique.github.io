@@ -35,6 +35,7 @@ In „Widerstandsmomente“ habe ich die Stimmen aus dem historischen Widerstand
 Vielen Dank für das Interview!
 
 [Ankündigung und Informationen zum Filmabend am 14.11.2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html)
+
 [Website zum Film](http://www.widerstandsmomente.at/de/film/inhalt/)
 
 **Englisch**:
@@ -64,6 +65,7 @@ Every now and then, criticism is voiced from the left against the bourgeois-cent
 In *Moments of Resistance*, I made voices from the historical resistance against the Nazis audible in "Working Landscapes." We see people working, today, in our present. At the same time we hear the reports from the past, from courageous working class women who resisted against the Nazis. The viewers are, so to speak, the bridge in this "image-sound-gap", they make connections and meanings, observe themselves while doing so and are asked to take a position. This process of reflection is supported by the present-day activists in the film, who talk about their (immediate) past and present. They discuss resistance in Argentina, the accompaniment of refugees or the similarities and differences they see between yesterday and today, between here and there. The archive image comes alive as soon as we take it out and use it to question our today, as soon as we begin to work politically with its content and with its being made or shaped.
 
 [Announcment und Informations about the zum filmevent am 14.11.2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html)
+
 [Website of the film](http://www.widerstandsmomente.at/en/film/content/)
 
 Thank you very much for the interview!
