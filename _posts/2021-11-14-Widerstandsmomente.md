@@ -14,7 +14,7 @@ Nach der Vorführung gibt es ein Gespräch mit Jo Schmeiser (Regisseurin), Konst
  
 Mit dabei ist das Booklet *Widerstandsmomente (Moments of Resistance)* mit Texten von Fouad Asfour, Monika Bernold, Konstanze Hanitzsch, Christian Höller, Anna Kowalska und Isabell Lorey 
 
-http://www.widerstandsmomente.at/de/film/inhalt/
+[Zur Website des Films](http://www.widerstandsmomente.at/de/film/inhalt/)
 
 
 English:
@@ -32,4 +32,4 @@ In the film *Widerstandsmomente (Moments of Resistance)*, Austrian film artist a
 After the screening there will be a discussion with Jo Schmeiser (director), Konstanze Hanitzsch (author) and the kosmotique organizers. 
 The booklet Moments of Resistance with texts by Fouad Asfour, Monika Bernold, Konstanze Hanitzsch, Christian Höller, Anna Kowalska and Isabell Lorey is part of the event. 
 
-http://www.widerstandsmomente.at/en/film/content/
+[To the Website of the film](http://www.widerstandsmomente.at/en/film/content/)
