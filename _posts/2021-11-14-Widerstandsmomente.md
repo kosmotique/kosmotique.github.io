@@ -15,7 +15,8 @@ Mit dabei ist das Booklet *Widerstandsmomente (Moments of Resistance)* mit Texte
 
 Wir haben im Vorfeld der Veranstaltung ein Interview mit Jo Schmeiser geführt. Ihr findet es [hier](http://kosmotique.org/texts/2021-10-27-Widerstandsmomente-Interview.html).
 
-English:
+
+**English:**
 
 Moments of Resistance 
 
