@@ -13,6 +13,7 @@ Mit dabei ist das Booklet *Widerstandsmomente (Moments of Resistance)* mit Texte
 
 [Zur Website des Films](http://www.widerstandsmomente.at/de/film/inhalt/)
 
+Wir haben im Vorfeld der Veranstaltung ein Interview mit Jo Schmeiser geführt. Ihr findet es [hier](http://kosmotique.org/texts/2021-10-27-Widerstandsmomente-Interview.html).
 
 English:
 
@@ -30,3 +31,5 @@ After the screening there will be a discussion with Jo Schmeiser (director), Kon
 The booklet Moments of Resistance with texts by Fouad Asfour, Monika Bernold, Konstanze Hanitzsch, Christian Höller, Anna Kowalska and Isabell Lorey is part of the event. 
 
 [To the Website of the film](http://www.widerstandsmomente.at/en/film/content/)
+
+We did an interview with Jo Schmeiser before the event. You can find it [here](http://kosmotique.org/texts/2021-10-27-Widerstandsmomente-Interview.html).
