@@ -2,7 +2,7 @@
 title: „Ich bin nicht auf die Welt gekommen, um wegzuschauen.“
 date: 27. Oktober 2021
 ---
-Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am 14. November 2021 mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
+Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am [14. November 2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html) mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
 
 Immer mal wieder wird gegen die bürgerliche-mittige erinnerungs-politische Debatte um Nationalsozialismus und Shoah Kritik von Links laut, zuletzt prominent geschehen durch Max Czollek in Bezug auf die [Dethematisierung von kommunistischem Widerstand](https://www.woz.ch/-b8c8). Auch die Widerständigkeiten von Frauen wurden lange und werden bis heute unsichtbar gemacht und ignoriert. Die Kämpfe der Frauen wurden nicht erzählt und sind bis heute in ihrer Vielfältigkeit nicht dokumentiert.  Umso schöner, dass Jo Schmeiser, Filmemacherin aus Wien in ihrem neuen Film *Widerstandsmomente* kommunistische Widerstandskämpfer\*innen "zu Wort" kommen - neben zahlreichen anderen kämpferischen Frauen - denn der Film spannt einen Bogen aus der Geschichte in die Gegenwart, von anderen Kontinenten zu migrantischen Selbstorganisierungen hier.
 
