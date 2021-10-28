@@ -1,9 +1,7 @@
 ---
-title: „Widerstandsmomente“
+title: Filmabend „Widerstandsmomente“
 date: 2021-11-14 19:00:00
 ---
-Filmabend mit Gespräch und Booklet 
-
 (A 2019, 98 min, Deutsch, Französisch, Dari, Untertitel: Deutsch)
 Wir zeigen die deutschsprachige Version im großen Raum und die englischsprachige Version im vorderen Raum *(english version below!)*. 
 
