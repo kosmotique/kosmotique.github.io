@@ -4,6 +4,7 @@ date: 2021-11-14 19:00:00
 ---
 Wir zeigen die deutschsprachige Version im großen Raum und die englischsprachige Version im vorderen Raum *(english version below!)*. 
 
+
 (A 2019, 98 min, Deutsch, Französisch, Dari, Untertitel: Deutsch)
 Achtung: Es gilt die 2G-Regel! 
 
