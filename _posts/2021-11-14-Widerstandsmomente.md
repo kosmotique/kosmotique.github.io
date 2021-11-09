@@ -31,7 +31,7 @@ Film evening with talk and booklet
 (A 2019, 98 min, German, French, Dari, subtitles: German/English).
 We show the German language version in the large room and the English language version in the front room. 
 
-Attention: the 2G rule applies ! 
+Attention: the 2G rule applies ! Please test yourself additionally at home beforehand. If necessary, we also keep tests in stock. If you would like to take advantage of this, please come as early as 6:30 pm. Also bring an FFP2 mask with you. Thank you!
 
 In the film *Widerstandsmomente (Moments of Resistance)*, Austrian film artist and activist Jo Schmeiser uses different portraits of women to explore how resistant moments - in exceptional situations as well as in everyday life - become a political way of life. On the basis of interviews with contemporary activists and historical audio documents, life stories about anti-fascist resistance in the 1940s and forced labor, the film creates an encouraging panorama of voices, experiences and strategies - lived possibilities of collective and self-determined engagement for a society in solidarity without discrimination and exclusion. A rope stretches from what was yesterday and what is happening today to what could be: a society in solidarity without discrimination and exclusion. 
 
