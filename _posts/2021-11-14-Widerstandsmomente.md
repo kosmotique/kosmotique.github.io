@@ -1,5 +1,5 @@
 ---
-title: Verschoben auf das Frühjahr 2022: Filmabend „Widerstandsmomente“
+title: Verschoben auf das Frühjahr 2022! Filmabend „Widerstandsmomente“
 date: 2021-11-14 19:00:00
 ---
 Im Film *Widerstandsmomente* (A 2019, 98 min, Deutsch, Französisch, Dari, Untertitel: Deutsch/English) geht die österreichische Filmkünstlerin und Aktivistin Jo Schmeiser anhand unterschiedlicher Frauenporträts der Frage nach, wie widerständige Momente – in Ausnahmesituationen wie im Alltag – zu einer politischen Lebenshaltung werden. Auf Basis von Interviews mit Aktivistinnen der Gegenwart und historischen Tondokumenten, Lebensberichten über antifaschistischen Widerstand der 1940er-Jahre und Zwangsarbeit, entwirft der Film ein Mut machendes Panorama an Stimmen, Erfahrungen und Strategien – gelebte Möglichkeiten kollektiven und selbstbestimmten Engagements für eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. Ein Seil spannt sich von dem was gestern war, und dem, was heute geschieht, zu dem was sein könnte: eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. 
