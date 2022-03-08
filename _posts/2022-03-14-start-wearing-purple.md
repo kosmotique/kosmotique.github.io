@@ -8,3 +8,5 @@ Vorführung der Dokumentation über die Initiative "Deutsche Wohnen & Co enteign
 Statt auf die Politik zu warten, setzen Berliner\*innen auf Eigeninitiative, schließen sich zusammen, um ihre Häuser von Großinvestoren zurück zu bekommen. Der Film folgt einer inspirierenden und erfrischenden Bewegung, die das Verständnis von Hausbesitz und Eigentum überall auf den Kopf stellen könnte und zeigt, was diese ansonsten sehr gewöhnlichen Menschen antreibt, trotz aller Rückschläge hartnäckig zu bleiben.
 
 Mehr Infos zum Film unter [www.filmpurple.com](https://www.filmpurple.com).
+
+Für diese Veranstaltung gilt die 2G+ Regel. Zutritt haben nur geimpfte oder genesene Personen. Wir bitten alle zusätzlich, am selben Tag einen Antigentest zu machen.
