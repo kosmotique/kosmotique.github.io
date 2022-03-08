@@ -1,6 +1,8 @@
 title: kosmotique
 theme: jekyll-theme-minimal
 logo:  /assets/images/logo.jpg
+timezone: Europe/Berlin
+future: true
 
 plugins:
 - jekyll-feed
@@ -22,7 +24,5 @@ defaults:
   scope:
     path: ""
     type: "posts"
-    future: true
-    timezone: Europe/Berlin
   values:
     layout: "post"
