@@ -1,7 +1,6 @@
 title: kosmotique
 theme: jekyll-theme-minimal
 logo:  /assets/images/logo.jpg
-timezone: Europe/Berlin
 future: true
 
 plugins:
