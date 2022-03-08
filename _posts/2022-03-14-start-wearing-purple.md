@@ -1,6 +1,6 @@
 ---
 title: "Start Wearing Purple"
-date: 2022-03-14 20:00:00
+date: 2022-03-07 20:00:00
 ---
 
 Vorführung der Dokumentation über die Initiative "Deutsche Wohnen \& Co enteignen" in Anwesenheit der Filmemacher\*innen Hendrik Kintscher und Müge Süer.
