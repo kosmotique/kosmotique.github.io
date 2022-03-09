@@ -7,7 +7,7 @@ Ort: K2 Kulturkiste, Schössergasse 2, 01796 Pirna. In Kooperation mit [AKuBiZ](
 
 Anschließend Gespräch mit der Autorin und mit den Töchtern der Ärztin, deren Lebensgeschichte im Zentrum des Romans steht.
 
-Wir bitten um Anmeldung per E-Mail via kontakt@akubiz.de
+Wir bitten um Anmeldung per E-Mail via [kontakt@akubiz.de](kontakt@akubiz.de)
 
 [Flora von Herwarth (2020): Splitterzeiten. Roman](https://www.klakverlag.de/produkt/splitterzeiten-roman/)
 Authentischer Roman über eine Frauenärztin, die in zwei deutschen Diktaturen ihr Selbstbestimmungsrecht im Spannungsfeld zwischen Ethik und Gesetz lebt.
