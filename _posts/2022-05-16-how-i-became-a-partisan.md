@@ -11,6 +11,8 @@ Moderation: Mietje Kuhnhardt, [RomaRespekt](https://www.weiterdenken.de/de/romar
 
 *** 3G+tagesaktueller Schnelltest
 
+![How I became a partisan](/images/how i became a partisan.jpg)
+
 „How I became a partisan“ (slowakisch mit deutschen Untertiteln// 90 min)
 
 Als slowakische Urenkelin des Rom-Partisanenkämpfers Jan Lackó, erfährt Vera Lacková schon als Kind von den Heldentaten ihres Urgroßvaters im Kampf gegen die nationalsozialistischen Besatzer. In ihrem Film „How I became a Partisan“ begibt sie sich auf die Spuren durch die ehemalige Tschechoslowakei; forscht in Archiven über die Geschichte von Rom\*nja, die Partisan\*innen waren, führt Gespräche in Museen der Slowakei, besucht Städte und Dörfer im heutigen Tschechien und eröffnet eine Ausstellung zum Thema Rom\*nja als Partisan\*innen im Widerstand. Neben Widerstandsgeschichten thematisiert Vera Lacková in ihrem Film die Inhaftierung und Ermordung tausender Rom\*nja währen des Zweiten Weltkrieges sowie die Erinnerungsgeschichte, um die es immer noch zu kämpfen gilt. Darüber hinaus zeigt der Film die gegenwärtige und zum Teil schwierige Auseinandersetzung mit der eigenen Identität als Rom\*nja.
