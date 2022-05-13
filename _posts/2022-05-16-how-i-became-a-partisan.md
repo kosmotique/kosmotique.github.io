@@ -1,5 +1,5 @@
 ---
-title: "How I became a Partisan" - Film und Gespräch anlässlich des International Roma Resistance Day mit der Filmemacherin Vera Lacková
+title: "How I became a Partisan - Film und Gespräch anlässlich des International Roma Resistance Day mit der Filmemacherin Vera Lacková"
 date: 2022-05-16 19:00:00
 ---
 
