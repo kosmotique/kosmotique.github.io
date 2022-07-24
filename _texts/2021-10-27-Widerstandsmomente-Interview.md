@@ -1,6 +1,6 @@
 ---
 title: „Ich bin nicht auf die Welt gekommen, um wegzuschauen.“
-date: 27. Oktober 2021
+date: 2021-10-27
 ---
 Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am [14. November 2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html) mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
 
