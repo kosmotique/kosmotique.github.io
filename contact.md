@@ -2,7 +2,7 @@
 title: Laden
 ---
 
-kosmotique e.V.
+kosmotique e. V.
 Martin-Luther-Str. 13
 01099 Dresden
 
