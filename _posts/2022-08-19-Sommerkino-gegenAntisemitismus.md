@@ -2,10 +2,12 @@
 title: "Things. Places. Years. und Liebe Geschichte – ein Sommerkino in der kosmotique"
 date: 2022-08-19 17:00:00
 ---
+
 Auftakt der Reihe „Auseinandersetzungen zur Gegenwart des Antisemitismus“
-17:00 Uhr Things. Places. Years. (A, GB / 2004 / 70 min)
-19:30 Uhr Liebe Geschichte (A / 2010 / 98 min)
-Kommt getestet!
+<br>17:00 Uhr Things. Places. Years. (A, GB / 2004 / 70 min)
+<br>19:30 Uhr Liebe Geschichte (A / 2010 / 98 min)
+<br>Kommt getestet!
+
 
 Das Sommerkino zeigt die beiden Filme [Things. Places. Years.](https://www.sixpackfilm.com/de/catalogue/1238/) und [Liebe Geschichte](https://dok.at/film/liebe-geschichte/) von [Klub Zwei](http://www.klubzwei.at/). Beide Filme setzen sich mit den Folgen des Nationalsozialismus bis in die Gegenwart auseinander. Erfahrungen von Vertreibung, Emigration und Holocaust werden oft in der Vergangenheit verortet.
 
