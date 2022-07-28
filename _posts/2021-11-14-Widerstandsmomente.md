@@ -26,7 +26,7 @@ KONSTANZE HANITZSCH studierte Gender Studies und Neuere deutsche Literatur und a
 
 **English:**
 
-This event will be made up for in spring 2022!
+This event will be made up for September, 24th, 2022!
 
 Moments of Resistance 
 
