@@ -2,7 +2,7 @@
 title: „Ich bin nicht auf die Welt gekommen, um wegzuschauen.“
 date: 2021-10-27
 ---
-Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am [14. November 2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html) mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
+Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am 14. November 2021, wird nachgeholt am [24. September 2022](http://kosmotique.org/2022/09/24/Widerstandsmomente.html) mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
 
 Immer mal wieder wird gegen die bürgerliche-mittige erinnerungs-politische Debatte um Nationalsozialismus und Shoah Kritik von Links laut, zuletzt prominent geschehen durch Max Czollek in Bezug auf die [Dethematisierung von kommunistischem Widerstand](https://www.woz.ch/-b8c8). Auch die Widerständigkeiten von Frauen wurden lange und werden bis heute unsichtbar gemacht und ignoriert. Die Kämpfe der Frauen wurden nicht erzählt und sind bis heute in ihrer Vielfältigkeit nicht dokumentiert.  Umso schöner, dass Jo Schmeiser, Filmemacherin aus Wien in ihrem neuen Film *Widerstandsmomente* kommunistische Widerstandskämpfer\*innen "zu Wort" kommen - neben zahlreichen anderen kämpferischen Frauen - denn der Film spannt einen Bogen aus der Geschichte in die Gegenwart, von anderen Kontinenten zu migrantischen Selbstorganisierungen hier.
 
@@ -34,7 +34,7 @@ In „Widerstandsmomente“ habe ich die Stimmen aus dem historischen Widerstand
 
 Vielen Dank für das Interview!
 
-[Ankündigung und Informationen zum Filmabend am 14.11.2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html)
+[Ankündigung und Informationen zum Filmabend am 24.09.2022](http://kosmotique.org/2022/09/24/Widerstandsmomente.html)
 
 [Website zum Film](http://www.widerstandsmomente.at/de/film/inhalt/)
 
@@ -42,7 +42,7 @@ Vielen Dank für das Interview!
 
 "I wasn't born to look the other way."  
 
-Interview on the occasion of the film presentation "Moments of Resistance" and talk on November 14, 2021 with Jo Schmeiser and Konstanze Hanitzsch at kosmotique.
+Interview on the occasion of the film presentation "Moments of Resistance" and talk on November 14, 2021, rescheduled for September, 24, 2022, with Jo Schmeiser and Konstanze Hanitzsch at kosmotique.
 
 Every now and then, criticism is voiced from the left against the bourgeois-centered memorialisation discourse about National Socialism and the Shoah, most recently prominently by Max Czollek in relation to the [dethematization of communist resistance](https://www.woz.ch/-b8c8). Women's resistance has also been invisible and ignored for a long time and continues to be so today. Women's struggles were not told and are still not documented in their diversity. All the more beautiful that female communist resistance fighters have "their say" in Jo Schmeiser new film *Moments of Resistance* - alongside numerous other combative women - because the film spans an arc from history to the present, from other continents to migrant self-organizations here.
 
@@ -64,7 +64,7 @@ Every now and then, criticism is voiced from the left against the bourgeois-cent
  
 In *Moments of Resistance*, I made voices from the historical resistance against the Nazis audible in "Working Landscapes." We see people working, today, in our present. At the same time we hear the reports from the past, from courageous working class women who resisted against the Nazis. The viewers are, so to speak, the bridge in this "image-sound-gap", they make connections and meanings, observe themselves while doing so and are asked to take a position. This process of reflection is supported by the present-day activists in the film, who talk about their (immediate) past and present. They discuss resistance in Argentina, the accompaniment of refugees or the similarities and differences they see between yesterday and today, between here and there. The archive image comes alive as soon as we take it out and use it to question our today, as soon as we begin to work politically with its content and with its being made or shaped.
 
-[Announcment und Informations about the zum filmevent am 14.11.2021](http://kosmotique.org/2021/11/14/Widerstandsmomente.html)
+[Announcment und Informations about the zum filmevent am 24.09.2022](http://kosmotique.org/2022/09/24/Widerstandsmomente.html)
 
 [Website of the film](http://www.widerstandsmomente.at/en/film/content/)
 
