@@ -2,7 +2,7 @@
 title: „Ich bin nicht auf die Welt gekommen, um wegzuschauen.“
 date: 2021-10-27
 ---
-Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am 14. November 2021, wird nachgeholt am [24. September 2022](http://kosmotique.org/2022/09/24/Widerstandsmomente.html) mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
+Interview anlässlich der Filmpräsentation "Widerstandsmomente" und Gespräch am 14. November 2021, wird nachgeholt am [24. September 2022](http://kosmotique.org/2022/09/24/Widerstandsmomente.html), mit Jo Schmeiser und Konstanze Hanitzsch in der kosmotique *(english version below)*
 
 Immer mal wieder wird gegen die bürgerliche-mittige erinnerungs-politische Debatte um Nationalsozialismus und Shoah Kritik von Links laut, zuletzt prominent geschehen durch Max Czollek in Bezug auf die [Dethematisierung von kommunistischem Widerstand](https://www.woz.ch/-b8c8). Auch die Widerständigkeiten von Frauen wurden lange und werden bis heute unsichtbar gemacht und ignoriert. Die Kämpfe der Frauen wurden nicht erzählt und sind bis heute in ihrer Vielfältigkeit nicht dokumentiert.  Umso schöner, dass Jo Schmeiser, Filmemacherin aus Wien in ihrem neuen Film *Widerstandsmomente* kommunistische Widerstandskämpfer\*innen "zu Wort" kommen - neben zahlreichen anderen kämpferischen Frauen - denn der Film spannt einen Bogen aus der Geschichte in die Gegenwart, von anderen Kontinenten zu migrantischen Selbstorganisierungen hier.
 
@@ -42,7 +42,7 @@ Vielen Dank für das Interview!
 
 "I wasn't born to look the other way."  
 
-Interview on the occasion of the film presentation "Moments of Resistance" and talk on November 14, 2021, rescheduled for September, 24, 2022, with Jo Schmeiser and Konstanze Hanitzsch at kosmotique.
+Interview on the occasion of the film presentation "Moments of Resistance" and talk on November 14, 2021, rescheduled to September, 24, 2022, with Jo Schmeiser and Konstanze Hanitzsch at kosmotique.
 
 Every now and then, criticism is voiced from the left against the bourgeois-centered memorialisation discourse about National Socialism and the Shoah, most recently prominently by Max Czollek in relation to the [dethematization of communist resistance](https://www.woz.ch/-b8c8). Women's resistance has also been invisible and ignored for a long time and continues to be so today. Women's struggles were not told and are still not documented in their diversity. All the more beautiful that female communist resistance fighters have "their say" in Jo Schmeiser new film *Moments of Resistance* - alongside numerous other combative women - because the film spans an arc from history to the present, from other continents to migrant self-organizations here.
 
