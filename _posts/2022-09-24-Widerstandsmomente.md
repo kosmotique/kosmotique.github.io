@@ -1,12 +1,11 @@
 ---
-title: Verschoben auf 24. September 2022! Filmabend „Widerstandsmomente“
-date: 2021-11-14 19:00:00
+title: Filmabend „Widerstandsmomente“
+date: 2022-09-24 19:00:00
 ---
-*Diese Veranstaltung wird am 24. September 2022 nachgeholt!*
-<br>Im Film *Widerstandsmomente* (A 2019, 98 min, Deutsch, Französisch, Dari, Untertitel: Deutsch/English) geht die österreichische Filmkünstlerin und Aktivistin Jo Schmeiser anhand unterschiedlicher Frauenporträts der Frage nach, wie widerständige Momente – in Ausnahmesituationen wie im Alltag – zu einer politischen Lebenshaltung werden. Auf Basis von Interviews mit Aktivistinnen der Gegenwart und historischen Tondokumenten, Lebensberichten über antifaschistischen Widerstand der 1940er-Jahre und Zwangsarbeit, entwirft der Film ein Mut machendes Panorama an Stimmen, Erfahrungen und Strategien – gelebte Möglichkeiten kollektiven und selbstbestimmten Engagements für eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. Ein Seil spannt sich von dem was gestern war, und dem, was heute geschieht, zu dem was sein könnte: eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. 
+Im Film *Widerstandsmomente* (A 2019, 98 min, Deutsch, Französisch, Dari, Untertitel: Deutsch/English) geht die österreichische Filmkünstlerin und Aktivistin Jo Schmeiser anhand unterschiedlicher Frauenporträts der Frage nach, wie widerständige Momente – in Ausnahmesituationen wie im Alltag – zu einer politischen Lebenshaltung werden. Auf Basis von Interviews mit Aktivistinnen der Gegenwart und historischen Tondokumenten, Lebensberichten über antifaschistischen Widerstand der 1940er-Jahre und Zwangsarbeit, entwirft der Film ein Mut machendes Panorama an Stimmen, Erfahrungen und Strategien – gelebte Möglichkeiten kollektiven und selbstbestimmten Engagements für eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. Ein Seil spannt sich von dem was gestern war, und dem, was heute geschieht, zu dem was sein könnte: eine solidarische Gesellschaft ohne Diskriminierung und Ausgrenzung. 
 
 Wir zeigen die deutschsprachige Version im großen Raum und die englischsprachige Version im vorderen Raum. 
-Achtung: Es gilt die 2G-Regel! Bitte testet euch vorher zusätzlich zu Hause. Bei Bedarf halten wir auch Tests vorrätig. Wer das in Anspruch nehmen möchte, kommt bitte bereits 18:30 Uhr. Bringt euch außerdem eine FFP2-Maske mit. Dankeschön!
+<br> COVID-19: Bitte testet euch vorher zu Hause. Dankeschön!
 
 Nach der Vorführung gibt es ein Gespräch mit Jo Schmeiser (Regisseurin), Konstanze Hanitzsch (Autorin) und den kosmotique Betreiber\*innen.  
  
@@ -26,15 +25,13 @@ KONSTANZE HANITZSCH studierte Gender Studies und Neuere deutsche Literatur und a
 
 **English:**
 
-This event will be made up for September, 24th, 2022!
-
 Moments of Resistance 
 
 Film evening with talk and booklet 
 (A 2019, 98 min, German, French, Dari, subtitles: German/English).
 We show the German language version in the large room and the English language version in the front room. 
 
-Attention: the 2G rule applies ! Please test yourself additionally at home beforehand. If necessary, we also keep tests in stock. If you would like to take advantage of this, please come as early as 6:30 pm. Also bring an FFP2 mask with you. Thank you!
+COVID-19: Please test yourself at home beforehand. Thank you!
 
 In the film *Widerstandsmomente (Moments of Resistance)*, Austrian film artist and activist Jo Schmeiser uses different portraits of women to explore how resistant moments - in exceptional situations as well as in everyday life - become a political way of life. On the basis of interviews with contemporary activists and historical audio documents, life stories about anti-fascist resistance in the 1940s and forced labor, the film creates an encouraging panorama of voices, experiences and strategies - lived possibilities of collective and self-determined engagement for a society in solidarity without discrimination and exclusion. A rope stretches from what was yesterday and what is happening today to what could be: a society in solidarity without discrimination and exclusion. 
 
