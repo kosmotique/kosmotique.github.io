@@ -1,5 +1,5 @@
 ---
-title: "*Things. Places. Years.* und *Liebe Geschichte* – ein Sommerkino in der kosmotique"
+title: "Things. Places. Years. und Liebe Geschichte – ein Sommerkino in der kosmotique"
 date: 2022-08-19 17:00:00
 ---
 
