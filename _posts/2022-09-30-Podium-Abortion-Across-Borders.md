@@ -12,10 +12,11 @@ Das Wahrnehmen reproduktiver Rechte und der Kampf für reproduktive Gerechtigkei
 Das international besetzte Podium aus Silvia De Zordo (Spanien), Krystyna Kacpura (Polen) und Steph Black (USA) nimmt die verschiedensten globalen Verknüpfungen des transnationalen Arbtreibunsreisens in den Blick. Es wird auch um die Angst vor Repressionen von Betroffenen und Unterstützer:innen gehen und um die Frage, was es braucht, um den Kampf für reproduktive Gerechtigkeit gemeinsam zu beginnen.
 
 Mit:
-Silvia De Zordo (PhD) | Universität Barcelona
-Das internationale Forschungsprojekt „Europe Abortion Access Project“ erforscht, warum Frauen aus europäischen Ländern mit relativ liberalen Abtreibungsgesetzen, wie z. B. Italien oder Frankreich, gezwungen sind, ins Ausland zu reisen, um einen Schwangerschaftsabbruch in Anspruch zu nehmen.
-Krystyna Kacpura | Präsidentin von FEDERA – Foundation for Women and Family Planning. FEDERA setzt sich seit 1991 für reproduktive Gesundheit und Rechte ein und bietet ungewollt Schwangeren in Polen u.a. anwaltliche Unterstützung.
-Steph Black | Abtreibungsstifterin, Abtreibungs-Doula, freiwillige Helferin in der Praxis und Mikwe-Führerin. Sie ist Feministin, Aktivistin und Autorin in Washington, D.C.
+**Silvia De Zordo (PhD) | Universität Barcelona** Das internationale Forschungsprojekt „Europe Abortion Access Project“ erforscht, warum Frauen aus europäischen Ländern mit relativ liberalen Abtreibungsgesetzen, wie z. B. Italien oder Frankreich, gezwungen sind, ins Ausland zu reisen, um einen Schwangerschaftsabbruch in Anspruch zu nehmen.
+**Krystyna Kacpura | Präsidentin von FEDERA – Foundation for Women and Family Planning.** FEDERA setzt sich seit 1991 für reproduktive Gesundheit und Rechte ein und bietet ungewollt Schwangeren in Polen u.a. anwaltliche Unterstützung.
+**Steph Black | Abtreibungsstifterin, Abtreibungs-Doula, freiwillige Helferin in der Praxis und Mikwe-Führerin.** Sie ist Feministin, Aktivistin und Autorin in Washington, D.C.
+**Moderation: Sara Dutch | Kollektiv KINOKAS**
+Sara Dutch ist Filmemacherin und hat mit dem Kollektiv KINOKAS den Film „Wie wir wollen“ produziert. Es ist ein filmisches Portrait über 50 Menschen, die in Deutschland eine Schwangerschaft abgebrochen haben.
 
 Das Gespräch findet auf Englisch statt. Wir schauen den Stream gemeinsam in der Kosmotique.  Link zur digitalen Veranstaltung: [https://youtu.be/AFmCGy0MMmo](https://youtu.be/AFmCGy0MMmo)
 Die Veranstaltung ist eine Kooperation zwischen Pro Choice Dresden und [Weiterdenken - Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
