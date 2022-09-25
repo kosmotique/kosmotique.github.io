@@ -17,7 +17,7 @@ Das internationale Forschungsprojekt „Europe Abortion Access Project“ erfors
 Krystyna Kacpura | Präsidentin von FEDERA – Foundation for Women and Family Planning. FEDERA setzt sich seit 1991 für reproduktive Gesundheit und Rechte ein und bietet ungewollt Schwangeren in Polen u.a. anwaltliche Unterstützung.
 Steph Black | Abtreibungsstifterin, Abtreibungs-Doula, freiwillige Helferin in der Praxis und Mikwe-Führerin. Sie ist Feministin, Aktivistin und Autorin in Washington, D.C.
 
-Das Gespräch findet auf Englisch statt.
+Das Gespräch findet auf Englisch statt. Wir schauen den Stream gemeinsam in der Kosmotique.  Link zur digitalen Veranstaltung: [https://youtu.be/AFmCGy0MMmo](https://youtu.be/AFmCGy0MMmo)
 Die Veranstaltung ist eine Kooperation zwischen Pro Choice Dresden und [Weiterdenken - Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
 
 Streaming: ABORTION ACROSS BORDERS – ABORTION WITHOUT BORDERS
@@ -30,6 +30,6 @@ Forced travel is now beginning here as well. Pregnant women travel to Mexico for
 The exercise of reproductive rights and the struggle for reproductive justice happens across national borders. The right to abortion is an existential one and support across national borders is indispensable.
 The international panel of Silvia De Zordo (Spain), Krystyna Kacpura (Poland) and Steph Black (USA) takes a look at the diverse global linkages of transnational abortion. The debate will also address the fear of repression of those affected and of supporters and will focus on what it takes to start the struggle for reproductive justice together.
 
-The conversation will take place in English.
+The conversation will take place in English. We'll watch the stream together at Kosmotique. Link to the digital event: [https://youtu.be/AFmCGy0MMmo](https://youtu.be/AFmCGy0MMmo)
 
 The event is a cooperation between Pro Choice Dresden and [Weiterdenken - Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
