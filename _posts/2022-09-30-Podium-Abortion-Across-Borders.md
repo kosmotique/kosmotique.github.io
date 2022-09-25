@@ -1,6 +1,6 @@
 ---
 title: Streaming: ABORTION ACROSS BORDERS – ABORTION WITHOUT BORDERS - Internationales Podium zu transnationalen Abtreibungsreisen und zu grenzenloser Solidarität
-2022-09-30 18:00:00
+date: 2022-09-30 18:00:00
 ---
 
 ---english below---
