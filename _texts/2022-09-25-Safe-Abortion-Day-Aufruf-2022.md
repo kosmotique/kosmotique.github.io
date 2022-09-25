@@ -23,4 +23,4 @@ Wir solidarisieren uns deshalb mit allen, die fÃ¼r reproduktive Gerechtigkeit kÃ
 
 Der Ermittlungsausschuss (EA) wird an dem Tag unter folgender Telefonnummer geschaltet sein: 0351-899 60 456. Habt die Nummer bei der Demonstration parat. Wir werden sie vor Ort auch noch einmal durchsagen. Falls ihr bisher noch nie beim EA anrufen musstet, gibt es unter diesem Link Tipps, was ihr beachten solltet.
 
-**Bringt Schilder, Transparente und eure Freund\*innen mit!**
+### **Bringt Schilder, Transparente und eure Freund\*innen mit!**
