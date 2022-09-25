@@ -3,7 +3,7 @@ title: Streaming - ABORTION ACROSS BORDERS – ABORTION WITHOUT BORDERS - Intern
 date: 2022-09-30 18:00:00
 ---
 
----english below---
+**\*english below\***
 Gemeinsames Stream-Schauen in der Kosmotique: Von Irland nach Großbritannien, von Polen nach Deutschland, von Brasilien nach Argentinien, von den USA nach Mexiko. Das Netz, das entsteht, ist vielfältig und es zeigt: Ungewollt Schwangere sind weltweit aus unterschiedlichsten Gründen gezwungen, für einen Schwangerschaftsabbruch über Landesgrenzen zu reisen.
 Während sich die Situation ungewollt Schwangerer in Ländern wie Argentinien, Irland oder Südkorea in den letzten Jahren deutlich verbessert hat, gibt es viele andere Länder, in denen sich der Zugang zu Schwangerschaftsabbrüchen massiv verschlechtert hat. Zwei Bespiele: Polen hat seit 2020 eines der restriktivsten Abtreibungsgesetze in Europa. Ein legaler Schwangerschaftsabbruch ist nahezu unmöglich, was dazu führt, dass ungewollt Schwangere nach Deutschland reisen müssen, um die Schwangerschaft abbrechen zu lassen.
 In den USA wurde im Juni 2022 das bekannte Urteil Roe versus Wade von 1973 durch den Obersten Gerichtshof der USA aufgehoben. Das bisher grundsätzliche Recht auf einen Schwangerschaftsabbruch wurde damit für ungültig erklärt. Die einzelnen Bundesstaaten haben nun die Macht, Schwangerschaftsabbrüche zu erlauben, sie einzuschränken oder zu verbieten. Was befürchtet wurde, geschah binnen weniger Stunden nach dem Urteil: Dutzende Bundesstaaten haben Schwangerschaftsabbrüche verboten bzw. die die rechtliche Situation stark eingeschränkt, weitere Bundesstaaten werden folgen.
