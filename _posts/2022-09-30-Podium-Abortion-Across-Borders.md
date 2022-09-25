@@ -18,7 +18,7 @@ Krystyna Kacpura | Präsidentin von FEDERA – Foundation for Women and Family P
 Steph Black | Abtreibungsstifterin, Abtreibungs-Doula, freiwillige Helferin in der Praxis und Mikwe-Führerin. Sie ist Feministin, Aktivistin und Autorin in Washington, D.C.
 
 Das Gespräch findet auf Englisch statt.
-Die Veranstaltung ist eine Kooperation zwischen Pro Choice Dresden und Weiterdenken Heinrich-Böll-Stiftung Sachsen e. V.
+Die Veranstaltung ist eine Kooperation zwischen Pro Choice Dresden und [Weiterdenken Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
 
 Streaming: ABORTION ACROSS BORDERS – ABORTION WITHOUT BORDERS
 International panel on transnational abortion travel and on borderless solidarity
@@ -32,4 +32,4 @@ The international panel of Silvia De Zordo (Spain), Krystyna Kacpura (Poland) an
 
 The conversation will take place in English.
 
-The event is a cooperation between Pro Choice Dresden and Weiterdenken Heinrich-Böll-Stiftung Sachsen e. V.
+The event is a cooperation between Pro Choice Dresden and [Weiterdenken Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
