@@ -21,7 +21,7 @@ Auch weltweit erleben wir Ungleichbehandlung und Unterdrückung durch die Angrif
 
 Wir solidarisieren uns deshalb mit allen, die für reproduktive Gerechtigkeit kämpfen und fordern uneingeschränkte körperliche, sexuelle und reproduktive Selbstbestimmung für alle, insbesondere für Frauen, nicht-binäre, queere und trans Personen sowie Menschen mit Behinderung – in Dresden, Deutschland und weltweit! Am 28. September, dem Internationalen Safe Abortion Day, werden wir diese Forderungen gemeinsam mit euch auf die Straße tragen, und nicht nur auf die Straße, sondern auch zu den konkreten Orten – schließt Euch an!
 
-Der Ermittlungsausschuss (EA) wird an dem Tag unter folgender Telefonnummer geschaltet sein: 0351-899 60 456. Habt die Nummer bei der Demonstration parat. Wir werden sie vor Ort auch noch einmal durchsagen. Falls ihr bisher noch nie beim EA anrufen musstet, gibt es unter diesem Link Tipps, was ihr beachten solltet.
+Der Ermittlungsausschuss (EA) wird an dem Tag unter folgender Telefonnummer geschaltet sein: 0351-899 60 456. Habt die Nummer bei der Demonstration parat. Wir werden sie vor Ort auch noch einmal durchsagen. Falls ihr bisher noch nie beim EA anrufen musstet, gibt es unter diesem [Link](https://ea-dresden.site36.net/category/texte/) Tipps, was ihr beachten solltet.
 
 ### **Bringt Schilder, Transparente und eure Freund\*innen mit!**
 
