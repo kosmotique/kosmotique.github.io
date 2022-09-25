@@ -24,3 +24,6 @@ Wir solidarisieren uns deshalb mit allen, die f√ºr reproduktive Gerechtigkeit k√
 Der Ermittlungsausschuss (EA) wird an dem Tag unter folgender Telefonnummer geschaltet sein: 0351-899 60 456. Habt die Nummer bei der Demonstration parat. Wir werden sie vor Ort auch noch einmal durchsagen. Falls ihr bisher noch nie beim EA anrufen musstet, gibt es unter diesem Link Tipps, was ihr beachten solltet.
 
 ### **Bringt Schilder, Transparente und eure Freund\*innen mit!**
+
+[schweigemarsch-stoppen.de](https://www.schweigemarsch-stoppen.de/2022/09/25/schwangerschaftsabbruch-unser-recht-unsere-entscheidung-in-dresden-in-deutschland-und-weltweit/)
+<br> [pro-choice-sachsen.de](https://pro-choice-sachsen.de)
