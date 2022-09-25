@@ -25,5 +25,4 @@ Der Ermittlungsausschuss (EA) wird an dem Tag unter folgender Telefonnummer gesc
 
 ### **Bringt Schilder, Transparente und eure Freund\*innen mit!**
 
-[schweigemarsch-stoppen.de](https://www.schweigemarsch-stoppen.de/2022/09/25/schwangerschaftsabbruch-unser-recht-unsere-entscheidung-in-dresden-in-deutschland-und-weltweit/)
-<br> [pro-choice-sachsen.de](https://pro-choice-sachsen.de)
+[pro-choice-sachsen.de](https://pro-choice-sachsen.de)
