@@ -30,6 +30,15 @@ Forced travel is now beginning here as well. Pregnant women travel to Mexico for
 The exercise of reproductive rights and the struggle for reproductive justice happens across national borders. The right to abortion is an existential one and support across national borders is indispensable.
 The international panel of Silvia De Zordo (Spain), Krystyna Kacpura (Poland) and Steph Black (USA) takes a look at the diverse global linkages of transnational abortion. The debate will also address the fear of repression of those affected and of supporters and will focus on what it takes to start the struggle for reproductive justice together.
 
+With:
+**Silvia De Zordo (PhD) | University of Barcelona.** The international research project "Europe Abortion Access Project" explores why women from European countries with relatively liberal abortion laws, such as Italy or France, are forced to travel abroad to seek abortion.
+
+**Krystyna Kacpura | President of FEDERA - Foundation for Women and Family Planning.** FEDERA has been advocating for reproductive health and rights since 1991 and provides legal support to unintentionally pregnant women in Poland.
+
+**Steph Black | abortion founder, abortion doula, practice volunteer and mikvah leader.** She is a feminist, activist and author in Washington, D.C.
+
+**Presentation: Sara Dutch | Kollektiv KINOKAS** Sara Dutch is a filmmaker and co-producer ofthe film "Wie wir wollen" together with the collective KINOKAS. The documentary portraits 50 people who terminated a pregnancy in Germany.
+
 The conversation will take place in English. We'll watch the stream together at Kosmotique. Link to the digital event: [https://youtu.be/AFmCGy0MMmo](https://youtu.be/AFmCGy0MMmo)
 
 The event is a cooperation between Pro Choice Dresden and [Weiterdenken - Heinrich-Böll-Stiftung Sachsen e. V.](https://calendar.boell.de/de/event/abortion-across-borders-abortion-without-borders)
