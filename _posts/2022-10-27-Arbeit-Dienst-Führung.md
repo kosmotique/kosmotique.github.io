@@ -10,7 +10,7 @@ Volksgemeinschaft dient. Unter Verweis auf »deutsche Arbeit« begründete der N
 antisemitisches Selbstbild, sondern auch Praktiken der Verfolgung und Vernichtung. »Arbeit, Dienst und Führung« 
 rekonstruiert diese Geschichte und analysiert dieses Selbstbild. Dabei wird der Blick auch ins »Innere« der 
 deutschen Volksgemeinschaft geworfen. Denn hier hat der Nationalsozialismus Formen von Menschenführung entwickelt, 
-die in Managementkonzepten der deutschen Nachkriegsgeschichte fortlebten.
+die in Managementkonzepten der deutschen Nachkriegsgeschichte fortlebten. (Verbrecher Verlag 2022)
 
 *Der Wert von Lelles Arbeit liegt darin, etwas eigentlich ganz Selbstverständliches aufzuzeigen. Dass nämlich die 
 nationalsozialistische Vernichtungspolitik nicht geschichtslos urplötzlich erschienen ist, sondern, dass Antisemitismus 
