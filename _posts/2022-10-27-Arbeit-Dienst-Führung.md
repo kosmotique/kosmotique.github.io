@@ -12,10 +12,10 @@ rekonstruiert diese Geschichte und analysiert dieses Selbstbild. Dabei wird der 
 deutschen Volksgemeinschaft geworfen. Denn hier hat der Nationalsozialismus Formen von Menschenführung entwickelt, 
 die in Managementkonzepten der deutschen Nachkriegsgeschichte fortlebten.
 
-Der Wert von Lelles Arbeit liegt darin, etwas eigentlich ganz Selbstverständliches aufzuzeigen. Dass nämlich die 
+*Der Wert von Lelles Arbeit liegt darin, etwas eigentlich ganz Selbstverständliches aufzuzeigen. Dass nämlich die 
 nationalsozialistische Vernichtungspolitik nicht geschichtslos urplötzlich erschienen ist, sondern, dass Antisemitismus 
 und Antiziganismus mit der „deutschen Arbeit“ eine Radikalisierung von gesellschaftlichem Einschluss und Ausschluss im 
-Konstrukt der NS-Volksgemeinschaft erfahren haben und zudem in der kapitalistischen Vergesellschaftung fundiert sind.
+Konstrukt der NS-Volksgemeinschaft erfahren haben und zudem in der kapitalistischen Vergesellschaftung fundiert sind.*
 [(hagalil)](https://www.hagalil.com/2022/10/lelle/)
 
 Am nächsten Tag spricht Nikolas Lelle bei der Herbstschule "Das Gerücht über die Anderen - Verschränkungen von 
