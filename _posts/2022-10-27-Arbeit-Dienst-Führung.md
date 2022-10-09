@@ -20,7 +20,7 @@ Konstrukt der NS-Volksgemeinschaft erfahren haben und zudem in der kapitalistisc
 
 Am nächsten Tag spricht Nikolas Lelle bei der Herbstschule "Das Gerücht über die Anderen - Verschränkungen von 
 Antisemitismus, Rassismus gegen Rom*\nja und Sint*\ezze und Sozialchauvinismus" im Goethe Institut Dresden. 
-Zur Anmeldung geht es [hier].(https://calendar.boell.de/de/event/das-geruecht-ueber-die-anderen-verschraenkungen-von-antisemitismus-rassismus-gegen-romnja-und)
+Zur Anmeldung geht es [hier.](https://calendar.boell.de/de/event/das-geruecht-ueber-die-anderen-verschraenkungen-von-antisemitismus-rassismus-gegen-romnja-und)
 
 Nikolas Lelle arbeitet seit 2020 bei der Amadeu Antonio Stiftung als Projektleiter der Bildungs- und Aktionswochen
 gegen Antisemitismus. Zuvor promovierte er – nach einem Studium der Philosophie und Soziologie in Frankfurt am Main 
