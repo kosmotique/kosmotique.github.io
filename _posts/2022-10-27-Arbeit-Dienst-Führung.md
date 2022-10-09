@@ -12,7 +12,7 @@ rekonstruiert diese Geschichte und analysiert dieses Selbstbild. Dabei wird der 
 deutschen Volksgemeinschaft geworfen. Denn hier hat der Nationalsozialismus Formen von Menschenführung entwickelt, 
 die in Managementkonzepten der deutschen Nachkriegsgeschichte fortlebten.
 
-**Nikolas Lelle** arbeitet seit 2020 bei der Amadeu Antonio Stiftung als Projektleiter der Bildungs- und Aktionswochen
+Nikolas Lelle arbeitet seit 2020 bei der Amadeu Antonio Stiftung als Projektleiter der Bildungs- und Aktionswochen
 gegen Antisemitismus. Zuvor promovierte er – nach einem Studium der Philosophie und Soziologie in Frankfurt am Main 
 und Mainz – an der Humboldt Universität zu Berlin in der Sozialphilosophie.
 
