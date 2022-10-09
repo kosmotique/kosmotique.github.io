@@ -26,7 +26,7 @@ Nikolas Lelle arbeitet seit 2020 bei der Amadeu Antonio Stiftung als Projektleit
 gegen Antisemitismus. Zuvor promovierte er – nach einem Studium der Philosophie und Soziologie in Frankfurt am Main 
 und Mainz – an der Humboldt Universität zu Berlin in der Sozialphilosophie.
 
-In Kooperation mit HATIKVA e.V., audioscript.net und RomaRespekt bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
+In Kooperation mit [HATIKVA e.V.](https://www.hatikva.de/), [audioscript](http://www.audioscript.net/) und [RomaRespekt](https://www.weiterdenken.de/de/romarespekt) bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
 
 Bitte geht mit der aktuellen Situation verantwortlich um und kommt getestet und mit FFP2-Maske.
 
