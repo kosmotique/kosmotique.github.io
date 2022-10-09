@@ -28,7 +28,7 @@ und Mainz – an der Humboldt Universität zu Berlin in der Sozialphilosophie.
 
 In Kooperation mit [HATIKVA e.V.](https://www.hatikva.de/), [audioscript](http://www.audioscript.net/) und [RomaRespekt](https://www.weiterdenken.de/de/romarespekt) bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
 
-Bitte geht mit der aktuellen Situation verantwortlich um und kommt getestet und mit FFP2-Maske.
+Bitte kommt getestet und mit FFP2-Maske.
 
 
 
