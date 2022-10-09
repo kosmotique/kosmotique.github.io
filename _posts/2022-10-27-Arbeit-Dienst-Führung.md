@@ -1,5 +1,5 @@
 ---
-title: "Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« (Verbrecher Verlag 2022) mit dem Autor Nikolas Lelle "
+title: "Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« mit dem Autor Nikolas Lelle"
 date: 2022-10-27 19:00:00
 ---
 
