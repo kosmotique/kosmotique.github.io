@@ -1,5 +1,5 @@
 ---
-title: „Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« mit Nikolas Lelle“
+title: Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« mit Nikolas Lelle
 date: 2022-10-27 19:00:00
 ---
 
