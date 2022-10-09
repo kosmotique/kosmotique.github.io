@@ -1,7 +1,8 @@
 ---
-title: Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« mit Nikolas Lelle
+title: "Buchvorstellung »Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe« mit Nikolas Lelle"
 date: 2022-10-27 19:00:00
 ---
+
 
 Die Deutschen und ihre Arbeit. Eine lange Geschichte eines überhöhenden Selbstbildes. Eine lange Geschichte des 
 Antisemitismus, die der Nationalsozialismus noch einmal radikalisierte. Deutsch soll eine Arbeit sein, die der 
