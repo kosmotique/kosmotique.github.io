@@ -19,14 +19,20 @@ Konstrukt der NS-Volksgemeinschaft erfahren haben und zudem in der kapitalistisc
 [(hagalil)](https://www.hagalil.com/2022/10/lelle/)
 
 Am nächsten Tag spricht Nikolas Lelle bei der Herbstschule "Das Gerücht über die Anderen - Verschränkungen von 
-Antisemitismus, Rassismus gegen Rom\*nja und Sint\*ezze und Sozialchauvinismus" im Goethe Institut Dresden. 
-Zur Anmeldung geht es [hier.](https://calendar.boell.de/de/event/das-geruecht-ueber-die-anderen-verschraenkungen-von-antisemitismus-rassismus-gegen-romnja-und)
+Antisemitismus, Rassismus gegen Rom\*nja und Sint\*ezze und Sozialchauvinismus" im Goethe Institut Dresden. Zur Anmeldung geht es [hier.](https://calendar.boell.de/de/event/das-geruecht-ueber-die-anderen-verschraenkungen-von-antisemitismus-rassismus-gegen-romnja-und)
 
 Nikolas Lelle arbeitet seit 2020 bei der Amadeu Antonio Stiftung als Projektleiter der Bildungs- und Aktionswochen
 gegen Antisemitismus. Zuvor promovierte er – nach einem Studium der Philosophie und Soziologie in Frankfurt am Main 
 und Mainz – an der Humboldt Universität zu Berlin in der Sozialphilosophie.
 
-In Kooperation mit [HATIKVA e.V.](https://www.hatikva.de/), [audioscript](http://www.audioscript.net/) und [RomaRespekt](https://www.weiterdenken.de/de/romarespekt) bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
+Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe
+Nikolas Lelle
+Broschur, 368 Seiten
+Preis: 30,00 €
+ISBN: 9783957325198
+[Verbrecher Verlag](https://www.verbrecherverlag.de/book/detail/1084) 2022
+
+In Kooperation mit [HATIKVA e. V.](https://www.hatikva.de/), [audioscript](http://www.audioscript.net/) und [RomaRespekt](https://www.weiterdenken.de/de/romarespekt) bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
 
 Bitte kommt getestet und mit FFP2-Maske.
 
