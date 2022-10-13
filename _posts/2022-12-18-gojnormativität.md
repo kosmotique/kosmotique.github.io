@@ -10,8 +10,8 @@ Antisemitismus und jüdische Perspektiven stellen häufig eine Leerstelle in int
 Am Nachmittag vor Chanukka laden wir zur Buchvorstellung mit Vivien Laumann und Judith Coffey ein. Bitte kommt getestet.
 
 Gojnormativität. Warum wir anders über Antisemitismus sprechen müssen
-Judith Coffey / Vivien Laumann
-Broschur, 200 Seiten
-Preis: 18,00 €
-ISBN: 9783957325006
-[Verbrecher-Verlag](https://www.verbrecherverlag.de/book/detail/1072) 2021
+<br>Judith Coffey / Vivien Laumann
+<br>Broschur, 200 Seiten
+<br>Preis: 18,00 €
+<br>ISBN: 9783957325006
+<br>[Verbrecher-Verlag](https://www.verbrecherverlag.de/book/detail/1072) 2021
