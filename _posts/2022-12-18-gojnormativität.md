@@ -1,5 +1,5 @@
 ---
-title: Buchvorstellung: "Gojnormativität" mit den Autorinnen Judith Coffey und Vivien Laumann
+title: Buchvorstellung "Gojnormativität" mit den Autorinnen Judith Coffey und Vivien Laumann
 date: 2022-12-18 15:00:00
 ---
 
