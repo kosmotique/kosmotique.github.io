@@ -26,11 +26,11 @@ gegen Antisemitismus. Zuvor promovierte er – nach einem Studium der Philosophi
 und Mainz – an der Humboldt Universität zu Berlin in der Sozialphilosophie.
 
 Arbeit, Dienst und Führung. Der Nationalsozialismus und sein Erbe
-Nikolas Lelle
-Broschur, 368 Seiten
-Preis: 30,00 €
-ISBN: 9783957325198
-[Verbrecher Verlag](https://www.verbrecherverlag.de/book/detail/1084) 2022
+<br>Nikolas Lelle
+<br>Broschur, 368 Seiten
+<br>Preis: 30,00 €
+<br>ISBN: 9783957325198
+<br>[Verbrecher Verlag](https://www.verbrecherverlag.de/book/detail/1084) 2022
 
 In Kooperation mit [HATIKVA e. V.](https://www.hatikva.de/), [audioscript](http://www.audioscript.net/) und [RomaRespekt](https://www.weiterdenken.de/de/romarespekt) bei Weiterdenken - Heinrich-Böll-Stiftung Sachsen.
 
